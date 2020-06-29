@@ -30,11 +30,11 @@ CasosNuevos  = fread("https://github.com/MinCiencia/Datos-COVID19/tree/master/ou
 
 case_test_df = CasosNuevosConSintomas %>% full_join(CasosNuevosSinSintomas) %>% full_join(CasosNuevos) 
  
-case_test_df_pivoted = case_test_df %>% pivot_longer(-c('region','codigo_region','poblacion','date'), names_to = 'type_metric', values_to = 'metric')
+case_test_df_pivoted = case_test_df %>% pivot_longer(-c('region','date'), names_to = 'type_metric', values_to = 'metric')
 
 
 
-dates1 = c('2020-04-15','2020-04-17','2020-04-20','2020-04-24','2020-04-27','2020-05-01','2020-05-04','2020-05-08')
+dates1 = c('2020-04-15','2020-04-17','2020-04-20','2020-04-24','2020-04-27','2020-05-01','2020-05-04','2020-05-08','2020-05-11','2020-05-15')
 list = c("FechaInicioSintomas-16-04","FechaInicioSintomas-18-04","FechaInicioSintomas-22-04","FechaInicioSintomas-25-04", "FechaInicioSintomas-29-04","FechaInicioSintomas-01-05","FechaInicioSintomas-04-05","FechaInicioSintomas-08-05")
 archivos_csv = paste("https://github.com/gomena/Underreportingcovid/tree/master/data/historysintom/",list,'.txt',sep="")
 
@@ -55,12 +55,12 @@ sintom_history <- map(
   })
 
 
-n=1
+n=5
 sumary =case_test_df %>% filter(date<=dates1[n+1] &date>dates1[n]) %>%  group_by(region) %>% 
   summarize_at(vars(new_cases_total, new_cases_with_symptoms,new_cases_without_symptoms),funs(sum(., na.rm=TRUE))) %>% 
   mutate(period=paste(dates1[n], dates1[n+1],sep=" a ")) %>% mutate(date=as.Date(dates1[n+1]))
 
-for(n in 2:7){
+for(n in 2:9){
   sumary = sumary %>% full_join(case_test_df %>% filter(date<=dates1[n+1] &date>dates1[n]) %>%  group_by(region) %>% 
                                   summarize_at(vars(new_cases_total, new_cases_with_symptoms,new_cases_without_symptoms),funs(sum(., na.rm=TRUE))) %>% 
                                   mutate(period=paste(dates1[n], dates1[n+1],sep=" a ")) %>% mutate(date=as.Date(dates1[n+1])))
