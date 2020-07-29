@@ -4199,727 +4199,1089 @@
 "4198","Treguaco","Ñuble",16207,2020-07-20,1,0.784313725490196,0.642594296228151,29
 "4199","Yungay","Ñuble",16109,2020-07-20,0.666666666666667,0.784313725490196,0.642594296228151,29
 "4200","Desconocido Nuble","Ñuble",0,2020-07-20,NA,0.784313725490196,0.642594296228151,29
-"4201","Algarrobo","Valparaíso",5602,2020-06-22,NA,NA,NA,25
-"4202","Alhue","Metropolitana",13502,2020-06-22,NA,NA,NA,25
-"4203","Alto Biobio","Biobío",8314,2020-06-22,NA,NA,NA,25
-"4204","Alto del Carmen","Atacama",3302,2020-06-22,NA,NA,NA,25
-"4205","Alto Hospicio","Tarapacá",1107,2020-06-22,NA,NA,NA,25
-"4206","Ancud","Los Lagos",10202,2020-06-22,NA,NA,NA,25
-"4207","Andacollo","Coquimbo",4103,2020-06-22,NA,NA,NA,25
-"4208","Angol","Araucanía",9201,2020-06-22,NA,NA,NA,25
-"4209","Antartica","Magallanes",12202,2020-06-22,NA,NA,NA,25
-"4210","Antofagasta","Antofagasta",2101,2020-06-22,NA,NA,NA,25
-"4211","Antuco","Biobío",8302,2020-06-22,NA,NA,NA,25
-"4212","Arauco","Biobío",8202,2020-06-22,NA,NA,NA,25
-"4213","Arica","Arica y Parinacota",15101,2020-06-22,NA,NA,NA,25
-"4214","Aysén","Aysén",11201,2020-06-22,NA,NA,NA,25
-"4215","Buin","Metropolitana",13402,2020-06-22,NA,NA,NA,25
-"4216","Bulnes","Ñuble",16102,2020-06-22,NA,NA,NA,25
-"4217","Cabildo","Valparaíso",5402,2020-06-22,NA,NA,NA,25
-"4218","Cabo de Hornos","Magallanes",12201,2020-06-22,NA,NA,NA,25
-"4219","Cabrero","Biobío",8303,2020-06-22,NA,NA,NA,25
-"4220","Calama","Antofagasta",2201,2020-06-22,NA,NA,NA,25
-"4221","Calbuco","Los Lagos",10102,2020-06-22,NA,NA,NA,25
-"4222","Caldera","Atacama",3102,2020-06-22,NA,NA,NA,25
-"4223","Calera","Valparaíso",5502,2020-06-22,NA,NA,NA,25
-"4224","Calera de Tango","Metropolitana",13403,2020-06-22,NA,NA,NA,25
-"4225","Calle Larga","Valparaíso",5302,2020-06-22,NA,NA,NA,25
-"4226","Camarones","Arica y Parinacota",15102,2020-06-22,NA,NA,NA,25
-"4227","Camina","Tarapacá",1402,2020-06-22,NA,NA,NA,25
-"4228","Canela","Coquimbo",4202,2020-06-22,NA,NA,NA,25
-"4229","Canete","Biobío",8203,2020-06-22,NA,NA,NA,25
-"4230","Carahue","Araucanía",9102,2020-06-22,NA,NA,NA,25
-"4231","Cartagena","Valparaíso",5603,2020-06-22,NA,NA,NA,25
-"4232","Casablanca","Valparaíso",5102,2020-06-22,NA,NA,NA,25
-"4233","Castro","Los Lagos",10201,2020-06-22,NA,NA,NA,25
-"4234","Catemu","Valparaíso",5702,2020-06-22,NA,NA,NA,25
-"4235","Cauquenes","Maule",7201,2020-06-22,NA,NA,NA,25
-"4236","Cerrillos","Metropolitana",13102,2020-06-22,NA,NA,NA,25
-"4237","Cerro Navia","Metropolitana",13103,2020-06-22,NA,NA,NA,25
-"4238","Chaiten","Los Lagos",10401,2020-06-22,NA,NA,NA,25
-"4239","Chanaral","Atacama",3201,2020-06-22,NA,NA,NA,25
-"4240","Chanco","Maule",7202,2020-06-22,NA,NA,NA,25
-"4241","Chepica","O’Higgins",6302,2020-06-22,NA,NA,NA,25
-"4242","Chiguayante","Biobío",8103,2020-06-22,NA,NA,NA,25
-"4243","Chile Chico","Aysén",11401,2020-06-22,NA,NA,NA,25
-"4244","Chillan","Ñuble",16101,2020-06-22,NA,NA,NA,25
-"4245","Chillan Viejo","Ñuble",16103,2020-06-22,NA,NA,NA,25
-"4246","Chimbarongo","O’Higgins",6303,2020-06-22,NA,NA,NA,25
-"4247","Cholchol","Araucanía",9121,2020-06-22,NA,NA,NA,25
-"4248","Chonchi","Los Lagos",10203,2020-06-22,NA,NA,NA,25
-"4249","Cisnes","Aysén",11202,2020-06-22,NA,NA,NA,25
-"4250","Cobquecura","Ñuble",16202,2020-06-22,NA,NA,NA,25
-"4251","Cochamo","Los Lagos",10103,2020-06-22,NA,NA,NA,25
-"4252","Cochrane","Aysén",11301,2020-06-22,NA,NA,NA,25
-"4253","Codegua","O’Higgins",6102,2020-06-22,NA,NA,NA,25
-"4254","Coelemu","Ñuble",16203,2020-06-22,NA,NA,NA,25
-"4255","Coihueco","Ñuble",16302,2020-06-22,NA,NA,NA,25
-"4256","Coinco","O’Higgins",6103,2020-06-22,NA,NA,NA,25
-"4257","Colbun","Maule",7402,2020-06-22,NA,NA,NA,25
-"4258","Colchane","Tarapacá",1403,2020-06-22,NA,NA,NA,25
-"4259","Colina","Metropolitana",13301,2020-06-22,NA,NA,NA,25
-"4260","Collipulli","Araucanía",9202,2020-06-22,NA,NA,NA,25
-"4261","Coltauco","O’Higgins",6104,2020-06-22,NA,NA,NA,25
-"4262","Combarbala","Coquimbo",4302,2020-06-22,NA,NA,NA,25
-"4263","Concepcion","Biobío",8101,2020-06-22,NA,NA,NA,25
-"4264","Conchali","Metropolitana",13104,2020-06-22,NA,NA,NA,25
-"4265","Concon","Valparaíso",5103,2020-06-22,NA,NA,NA,25
-"4266","Constitucion","Maule",7102,2020-06-22,NA,NA,NA,25
-"4267","Contulmo","Biobío",8204,2020-06-22,NA,NA,NA,25
-"4268","Copiapo","Atacama",3101,2020-06-22,NA,NA,NA,25
-"4269","Coquimbo","Coquimbo",4102,2020-06-22,NA,NA,NA,25
-"4270","Coronel","Biobío",8102,2020-06-22,NA,NA,NA,25
-"4271","Corral","Los Ríos",14102,2020-06-22,NA,NA,NA,25
-"4272","Coyhaique","Aysén",11101,2020-06-22,NA,NA,NA,25
-"4273","Cunco","Araucanía",9103,2020-06-22,NA,NA,NA,25
-"4274","Curacautin","Araucanía",9203,2020-06-22,NA,NA,NA,25
-"4275","Curacavi","Metropolitana",13503,2020-06-22,NA,NA,NA,25
-"4276","Curaco de Velez","Los Lagos",10204,2020-06-22,NA,NA,NA,25
-"4277","Curanilahue","Biobío",8205,2020-06-22,NA,NA,NA,25
-"4278","Curarrehue","Araucanía",9104,2020-06-22,NA,NA,NA,25
-"4279","Curepto","Maule",7103,2020-06-22,NA,NA,NA,25
-"4280","Curico","Maule",7301,2020-06-22,NA,NA,NA,25
-"4281","Dalcahue","Los Lagos",10205,2020-06-22,NA,NA,NA,25
-"4282","Desconocido Antofagasta","Antofagasta",0,2020-06-22,NA,NA,NA,25
-"4283","Desconocido Araucania","Araucanía",0,2020-06-22,NA,NA,NA,25
-"4284","Desconocido Arica y Parinacota","Arica y Parinacota",0,2020-06-22,NA,NA,NA,25
-"4285","Desconocido Atacama","Atacama",0,2020-06-22,NA,NA,NA,25
-"4286","Desconocido Aysen","Aysén",0,2020-06-22,NA,NA,NA,25
-"4287","Desconocido Biobio","Biobío",0,2020-06-22,NA,NA,NA,25
-"4288","Desconocido Coquimbo","Coquimbo",0,2020-06-22,NA,NA,NA,25
-"4289","Desconocido Los Lagos","Los Lagos",0,2020-06-22,NA,NA,NA,25
-"4290","Desconocido Los Rios","Los Ríos",0,2020-06-22,NA,NA,NA,25
-"4291","Desconocido Magallanes","Magallanes",0,2020-06-22,NA,NA,NA,25
-"4292","Desconocido Maule","Maule",0,2020-06-22,NA,NA,NA,25
-"4293","Desconocido Metropolitana","Metropolitana",0,2020-06-22,NA,NA,NA,25
-"4294","Desconocido Nuble","Ñuble",0,2020-06-22,NA,NA,NA,25
-"4295","Desconocido O’Higgins","O’Higgins",0,2020-06-22,NA,NA,NA,25
-"4296","Desconocido Tarapaca","Tarapacá",0,2020-06-22,NA,NA,NA,25
-"4297","Desconocido Valparaiso","Valparaíso",0,2020-06-22,NA,NA,NA,25
-"4298","Diego de Almagro","Atacama",3202,2020-06-22,NA,NA,NA,25
-"4299","Donihue","O’Higgins",6105,2020-06-22,NA,NA,NA,25
-"4300","El Bosque","Metropolitana",13105,2020-06-22,NA,NA,NA,25
-"4301","El Carmen","Ñuble",16104,2020-06-22,NA,NA,NA,25
-"4302","El Monte","Metropolitana",13602,2020-06-22,NA,NA,NA,25
-"4303","El Quisco","Valparaíso",5604,2020-06-22,NA,NA,NA,25
-"4304","El Tabo","Valparaíso",5605,2020-06-22,NA,NA,NA,25
-"4305","Empedrado","Maule",7104,2020-06-22,NA,NA,NA,25
-"4306","Ercilla","Araucanía",9204,2020-06-22,NA,NA,NA,25
-"4307","Estacion Central","Metropolitana",13106,2020-06-22,NA,NA,NA,25
-"4308","Florida","Biobío",8104,2020-06-22,NA,NA,NA,25
-"4309","Freire","Araucanía",9105,2020-06-22,NA,NA,NA,25
-"4310","Freirina","Atacama",3303,2020-06-22,NA,NA,NA,25
-"4311","Fresia","Los Lagos",10104,2020-06-22,NA,NA,NA,25
-"4312","Frutillar","Los Lagos",10105,2020-06-22,NA,NA,NA,25
-"4313","Futaleufu","Los Lagos",10402,2020-06-22,NA,NA,NA,25
-"4314","Futrono","Los Ríos",14202,2020-06-22,NA,NA,NA,25
-"4315","Galvarino","Araucanía",9106,2020-06-22,NA,NA,NA,25
-"4316","General Lagos","Arica y Parinacota",15202,2020-06-22,NA,NA,NA,25
-"4317","Gorbea","Araucanía",9107,2020-06-22,NA,NA,NA,25
-"4318","Graneros","O’Higgins",6106,2020-06-22,NA,NA,NA,25
-"4319","Guaitecas","Aysén",11203,2020-06-22,NA,NA,NA,25
-"4320","Hijuelas","Valparaíso",5503,2020-06-22,NA,NA,NA,25
-"4321","Hualaihue","Los Lagos",10403,2020-06-22,NA,NA,NA,25
-"4322","Hualane","Maule",7302,2020-06-22,NA,NA,NA,25
-"4323","Hualpen","Biobío",8112,2020-06-22,NA,NA,NA,25
-"4324","Hualqui","Biobío",8105,2020-06-22,NA,NA,NA,25
-"4325","Huara","Tarapacá",1404,2020-06-22,NA,NA,NA,25
-"4326","Huasco","Atacama",3304,2020-06-22,NA,NA,NA,25
-"4327","Huechuraba","Metropolitana",13107,2020-06-22,NA,NA,NA,25
-"4328","Illapel","Coquimbo",4201,2020-06-22,NA,NA,NA,25
-"4329","Independencia","Metropolitana",13108,2020-06-22,NA,NA,NA,25
-"4330","Iquique","Tarapacá",1101,2020-06-22,NA,NA,NA,25
-"4331","Isla de Maipo","Metropolitana",13603,2020-06-22,NA,NA,NA,25
-"4332","Isla de Pascua","Valparaíso",5201,2020-06-22,NA,NA,NA,25
-"4333","Juan Fernandez","Valparaíso",5104,2020-06-22,NA,NA,NA,25
-"4334","La Cisterna","Metropolitana",13109,2020-06-22,NA,NA,NA,25
-"4335","La Cruz","Valparaíso",5504,2020-06-22,NA,NA,NA,25
-"4336","La Estrella","O’Higgins",6202,2020-06-22,NA,NA,NA,25
-"4337","La Florida","Metropolitana",13110,2020-06-22,NA,NA,NA,25
-"4338","La Granja","Metropolitana",13111,2020-06-22,NA,NA,NA,25
-"4339","La Higuera","Coquimbo",4104,2020-06-22,NA,NA,NA,25
-"4340","La Ligua","Valparaíso",5401,2020-06-22,NA,NA,NA,25
-"4341","La Pintana","Metropolitana",13112,2020-06-22,NA,NA,NA,25
-"4342","La Reina","Metropolitana",13113,2020-06-22,NA,NA,NA,25
-"4343","La Serena","Coquimbo",4101,2020-06-22,NA,NA,NA,25
-"4344","La Union","Los Ríos",14201,2020-06-22,NA,NA,NA,25
-"4345","Lago Ranco","Los Ríos",14203,2020-06-22,NA,NA,NA,25
-"4346","Lago Verde","Aysén",11102,2020-06-22,NA,NA,NA,25
-"4347","Laguna Blanca","Magallanes",12102,2020-06-22,NA,NA,NA,25
-"4348","Laja","Biobío",8304,2020-06-22,NA,NA,NA,25
-"4349","Lampa","Metropolitana",13302,2020-06-22,NA,NA,NA,25
-"4350","Lanco","Los Ríos",14103,2020-06-22,NA,NA,NA,25
-"4351","Las Cabras","O’Higgins",6107,2020-06-22,NA,NA,NA,25
-"4352","Las Condes","Metropolitana",13114,2020-06-22,NA,NA,NA,25
-"4353","Lautaro","Araucanía",9108,2020-06-22,NA,NA,NA,25
-"4354","Lebu","Biobío",8201,2020-06-22,NA,NA,NA,25
-"4355","Licanten","Maule",7303,2020-06-22,NA,NA,NA,25
-"4356","Limache","Valparaíso",5802,2020-06-22,NA,NA,NA,25
-"4357","Linares","Maule",7401,2020-06-22,NA,NA,NA,25
-"4358","Litueche","O’Higgins",6203,2020-06-22,NA,NA,NA,25
-"4359","Llaillay","Valparaíso",5703,2020-06-22,NA,NA,NA,25
-"4360","Llanquihue","Los Lagos",10107,2020-06-22,NA,NA,NA,25
-"4361","Lo Barnechea","Metropolitana",13115,2020-06-22,NA,NA,NA,25
-"4362","Lo Espejo","Metropolitana",13116,2020-06-22,NA,NA,NA,25
-"4363","Lo Prado","Metropolitana",13117,2020-06-22,NA,NA,NA,25
-"4364","Lolol","O’Higgins",6304,2020-06-22,NA,NA,NA,25
-"4365","Loncoche","Araucanía",9109,2020-06-22,NA,NA,NA,25
-"4366","Longavi","Maule",7403,2020-06-22,NA,NA,NA,25
-"4367","Lonquimay","Araucanía",9205,2020-06-22,NA,NA,NA,25
-"4368","Los Alamos","Biobío",8206,2020-06-22,NA,NA,NA,25
-"4369","Los Andes","Valparaíso",5301,2020-06-22,NA,NA,NA,25
-"4370","Los Angeles","Biobío",8301,2020-06-22,NA,NA,NA,25
-"4371","Los Lagos","Los Ríos",14104,2020-06-22,NA,NA,NA,25
-"4372","Los Muermos","Los Lagos",10106,2020-06-22,NA,NA,NA,25
-"4373","Los Sauces","Araucanía",9206,2020-06-22,NA,NA,NA,25
-"4374","Los Vilos","Coquimbo",4203,2020-06-22,NA,NA,NA,25
-"4375","Lota","Biobío",8106,2020-06-22,NA,NA,NA,25
-"4376","Lumaco","Araucanía",9207,2020-06-22,NA,NA,NA,25
-"4377","Machali","O’Higgins",6108,2020-06-22,NA,NA,NA,25
-"4378","Macul","Metropolitana",13118,2020-06-22,NA,NA,NA,25
-"4379","Mafil","Los Ríos",14105,2020-06-22,NA,NA,NA,25
-"4380","Maipu","Metropolitana",13119,2020-06-22,NA,NA,NA,25
-"4381","Malloa","O’Higgins",6109,2020-06-22,NA,NA,NA,25
-"4382","Marchihue","O’Higgins",6204,2020-06-22,NA,NA,NA,25
-"4383","Maria Elena","Antofagasta",2302,2020-06-22,NA,NA,NA,25
-"4384","Maria Pinto","Metropolitana",13504,2020-06-22,NA,NA,NA,25
-"4385","Mariquina","Los Ríos",14106,2020-06-22,NA,NA,NA,25
-"4386","Maule","Maule",7105,2020-06-22,NA,NA,NA,25
-"4387","Maullin","Los Lagos",10108,2020-06-22,NA,NA,NA,25
-"4388","Mejillones","Antofagasta",2102,2020-06-22,NA,NA,NA,25
-"4389","Melipeuco","Araucanía",9110,2020-06-22,NA,NA,NA,25
-"4390","Melipilla","Metropolitana",13501,2020-06-22,NA,NA,NA,25
-"4391","Molina","Maule",7304,2020-06-22,NA,NA,NA,25
-"4392","Monte Patria","Coquimbo",4303,2020-06-22,NA,NA,NA,25
-"4393","Mostazal","O’Higgins",6110,2020-06-22,NA,NA,NA,25
-"4394","Mulchen","Biobío",8305,2020-06-22,NA,NA,NA,25
-"4395","Nacimiento","Biobío",8306,2020-06-22,NA,NA,NA,25
-"4396","Nancagua","O’Higgins",6305,2020-06-22,NA,NA,NA,25
-"4397","Natales","Magallanes",12401,2020-06-22,NA,NA,NA,25
-"4398","Navidad","O’Higgins",6205,2020-06-22,NA,NA,NA,25
-"4399","Negrete","Biobío",8307,2020-06-22,NA,NA,NA,25
-"4400","Ninhue","Ñuble",16204,2020-06-22,NA,NA,NA,25
-"4401","Niquen","Ñuble",16303,2020-06-22,NA,NA,NA,25
-"4402","Nogales","Valparaíso",5506,2020-06-22,NA,NA,NA,25
-"4403","Nueva Imperial","Araucanía",9111,2020-06-22,NA,NA,NA,25
-"4404","Nunoa","Metropolitana",13120,2020-06-22,NA,NA,NA,25
-"4405","OHiggins","Aysén",11302,2020-06-22,NA,NA,NA,25
-"4406","Olivar","O’Higgins",6111,2020-06-22,NA,NA,NA,25
-"4407","Ollague","Antofagasta",2202,2020-06-22,NA,NA,NA,25
-"4408","Olmue","Valparaíso",5803,2020-06-22,NA,NA,NA,25
-"4409","Osorno","Los Lagos",10301,2020-06-22,NA,NA,NA,25
-"4410","Ovalle","Coquimbo",4301,2020-06-22,NA,NA,NA,25
-"4411","Padre Hurtado","Metropolitana",13604,2020-06-22,NA,NA,NA,25
-"4412","Padre Las Casas","Araucanía",9112,2020-06-22,NA,NA,NA,25
-"4413","Paiguano","Coquimbo",4105,2020-06-22,NA,NA,NA,25
-"4414","Paillaco","Los Ríos",14107,2020-06-22,NA,NA,NA,25
-"4415","Paine","Metropolitana",13404,2020-06-22,NA,NA,NA,25
-"4416","Palena","Los Lagos",10404,2020-06-22,NA,NA,NA,25
-"4417","Palmilla","O’Higgins",6306,2020-06-22,NA,NA,NA,25
-"4418","Panguipulli","Los Ríos",14108,2020-06-22,NA,NA,NA,25
-"4419","Panquehue","Valparaíso",5704,2020-06-22,NA,NA,NA,25
-"4420","Papudo","Valparaíso",5403,2020-06-22,NA,NA,NA,25
-"4421","Paredones","O’Higgins",6206,2020-06-22,NA,NA,NA,25
-"4422","Parral","Maule",7404,2020-06-22,NA,NA,NA,25
-"4423","Pedro Aguirre Cerda","Metropolitana",13121,2020-06-22,NA,NA,NA,25
-"4424","Pelarco","Maule",7106,2020-06-22,NA,NA,NA,25
-"4425","Pelluhue","Maule",7203,2020-06-22,NA,NA,NA,25
-"4426","Pemuco","Ñuble",16105,2020-06-22,NA,NA,NA,25
-"4427","Penaflor","Metropolitana",13605,2020-06-22,NA,NA,NA,25
-"4428","Penalolen","Metropolitana",13122,2020-06-22,NA,NA,NA,25
-"4429","Pencahue","Maule",7107,2020-06-22,NA,NA,NA,25
-"4430","Penco","Biobío",8107,2020-06-22,NA,NA,NA,25
-"4431","Peralillo","O’Higgins",6307,2020-06-22,NA,NA,NA,25
-"4432","Perquenco","Araucanía",9113,2020-06-22,NA,NA,NA,25
-"4433","Petorca","Valparaíso",5404,2020-06-22,NA,NA,NA,25
-"4434","Peumo","O’Higgins",6112,2020-06-22,NA,NA,NA,25
-"4435","Pica","Tarapacá",1405,2020-06-22,NA,NA,NA,25
-"4436","Pichidegua","O’Higgins",6113,2020-06-22,NA,NA,NA,25
-"4437","Pichilemu","O’Higgins",6201,2020-06-22,NA,NA,NA,25
-"4438","Pinto","Ñuble",16106,2020-06-22,NA,NA,NA,25
-"4439","Pirque","Metropolitana",13202,2020-06-22,NA,NA,NA,25
-"4440","Pitrufquen","Araucanía",9114,2020-06-22,NA,NA,NA,25
-"4441","Placilla","O’Higgins",6308,2020-06-22,NA,NA,NA,25
-"4442","Portezuelo","Ñuble",16205,2020-06-22,NA,NA,NA,25
-"4443","Porvenir","Magallanes",12301,2020-06-22,NA,NA,NA,25
-"4444","Pozo Almonte","Tarapacá",1401,2020-06-22,NA,NA,NA,25
-"4445","Primavera","Magallanes",12302,2020-06-22,NA,NA,NA,25
-"4446","Providencia","Metropolitana",13123,2020-06-22,NA,NA,NA,25
-"4447","Puchuncavi","Valparaíso",5105,2020-06-22,NA,NA,NA,25
-"4448","Pucon","Araucanía",9115,2020-06-22,NA,NA,NA,25
-"4449","Pudahuel","Metropolitana",13124,2020-06-22,NA,NA,NA,25
-"4450","Puente Alto","Metropolitana",13201,2020-06-22,NA,NA,NA,25
-"4451","Puerto Montt","Los Lagos",10101,2020-06-22,NA,NA,NA,25
-"4452","Puerto Octay","Los Lagos",10302,2020-06-22,NA,NA,NA,25
-"4453","Puerto Varas","Los Lagos",10109,2020-06-22,NA,NA,NA,25
-"4454","Pumanque","O’Higgins",6309,2020-06-22,NA,NA,NA,25
-"4455","Punitaqui","Coquimbo",4304,2020-06-22,NA,NA,NA,25
-"4456","Punta Arenas","Magallanes",12101,2020-06-22,NA,NA,NA,25
-"4457","Puqueldon","Los Lagos",10206,2020-06-22,NA,NA,NA,25
-"4458","Puren","Araucanía",9208,2020-06-22,NA,NA,NA,25
-"4459","Purranque","Los Lagos",10303,2020-06-22,NA,NA,NA,25
-"4460","Putaendo","Valparaíso",5705,2020-06-22,NA,NA,NA,25
-"4461","Putre","Arica y Parinacota",15201,2020-06-22,NA,NA,NA,25
-"4462","Puyehue","Los Lagos",10304,2020-06-22,NA,NA,NA,25
-"4463","Queilen","Los Lagos",10207,2020-06-22,NA,NA,NA,25
-"4464","Quellon","Los Lagos",10208,2020-06-22,NA,NA,NA,25
-"4465","Quemchi","Los Lagos",10209,2020-06-22,NA,NA,NA,25
-"4466","Quilaco","Biobío",8308,2020-06-22,NA,NA,NA,25
-"4467","Quilicura","Metropolitana",13125,2020-06-22,NA,NA,NA,25
-"4468","Quilleco","Biobío",8309,2020-06-22,NA,NA,NA,25
-"4469","Quillon","Ñuble",16107,2020-06-22,NA,NA,NA,25
-"4470","Quillota","Valparaíso",5501,2020-06-22,NA,NA,NA,25
-"4471","Quilpue","Valparaíso",5801,2020-06-22,NA,NA,NA,25
-"4472","Quinchao","Los Lagos",10210,2020-06-22,NA,NA,NA,25
-"4473","Quinta de Tilcoco","O’Higgins",6114,2020-06-22,NA,NA,NA,25
-"4474","Quinta Normal","Metropolitana",13126,2020-06-22,NA,NA,NA,25
-"4475","Quintero","Valparaíso",5107,2020-06-22,NA,NA,NA,25
-"4476","Quirihue","Ñuble",16201,2020-06-22,NA,NA,NA,25
-"4477","Rancagua","O’Higgins",6101,2020-06-22,NA,NA,NA,25
-"4478","Ranquil","Ñuble",16206,2020-06-22,NA,NA,NA,25
-"4479","Rauco","Maule",7305,2020-06-22,NA,NA,NA,25
-"4480","Recoleta","Metropolitana",13127,2020-06-22,NA,NA,NA,25
-"4481","Renaico","Araucanía",9209,2020-06-22,NA,NA,NA,25
-"4482","Renca","Metropolitana",13128,2020-06-22,NA,NA,NA,25
-"4483","Rengo","O’Higgins",6115,2020-06-22,NA,NA,NA,25
-"4484","Requinoa","O’Higgins",6116,2020-06-22,NA,NA,NA,25
-"4485","Retiro","Maule",7405,2020-06-22,NA,NA,NA,25
-"4486","Rinconada","Valparaíso",5303,2020-06-22,NA,NA,NA,25
-"4487","Rio Bueno","Los Ríos",14204,2020-06-22,NA,NA,NA,25
-"4488","Rio Claro","Maule",7108,2020-06-22,NA,NA,NA,25
-"4489","Rio Hurtado","Coquimbo",4305,2020-06-22,NA,NA,NA,25
-"4490","Rio Ibanez","Aysén",11402,2020-06-22,NA,NA,NA,25
-"4491","Rio Negro","Los Lagos",10305,2020-06-22,NA,NA,NA,25
-"4492","Rio Verde","Magallanes",12103,2020-06-22,NA,NA,NA,25
-"4493","Romeral","Maule",7306,2020-06-22,NA,NA,NA,25
-"4494","Saavedra","Araucanía",9116,2020-06-22,NA,NA,NA,25
-"4495","Sagrada Familia","Maule",7307,2020-06-22,NA,NA,NA,25
-"4496","Salamanca","Coquimbo",4204,2020-06-22,NA,NA,NA,25
-"4497","San Antonio","Valparaíso",5601,2020-06-22,NA,NA,NA,25
-"4498","San Bernardo","Metropolitana",13401,2020-06-22,NA,NA,NA,25
-"4499","San Carlos","Ñuble",16301,2020-06-22,NA,NA,NA,25
-"4500","San Clemente","Maule",7109,2020-06-22,NA,NA,NA,25
-"4501","San Esteban","Valparaíso",5304,2020-06-22,NA,NA,NA,25
-"4502","San Fabian","Ñuble",16304,2020-06-22,NA,NA,NA,25
-"4503","San Felipe","Valparaíso",5701,2020-06-22,NA,NA,NA,25
-"4504","San Fernando","O’Higgins",6301,2020-06-22,NA,NA,NA,25
-"4505","San Gregorio","Magallanes",12104,2020-06-22,NA,NA,NA,25
-"4506","San Ignacio","Ñuble",16108,2020-06-22,NA,NA,NA,25
-"4507","San Javier","Maule",7406,2020-06-22,NA,NA,NA,25
-"4508","San Joaquin","Metropolitana",13129,2020-06-22,NA,NA,NA,25
-"4509","San Jose de Maipo","Metropolitana",13203,2020-06-22,NA,NA,NA,25
-"4510","San Juan de la Costa","Los Lagos",10306,2020-06-22,NA,NA,NA,25
-"4511","San Miguel","Metropolitana",13130,2020-06-22,NA,NA,NA,25
-"4512","San Nicolas","Ñuble",16305,2020-06-22,NA,NA,NA,25
-"4513","San Pablo","Los Lagos",10307,2020-06-22,NA,NA,NA,25
-"4514","San Pedro","Metropolitana",13505,2020-06-22,NA,NA,NA,25
-"4515","San Pedro de Atacama","Antofagasta",2203,2020-06-22,NA,NA,NA,25
-"4516","San Pedro de la Paz","Biobío",8108,2020-06-22,NA,NA,NA,25
-"4517","San Rafael","Maule",7110,2020-06-22,NA,NA,NA,25
-"4518","San Ramon","Metropolitana",13131,2020-06-22,NA,NA,NA,25
-"4519","San Rosendo","Biobío",8310,2020-06-22,NA,NA,NA,25
-"4520","San Vicente","O’Higgins",6117,2020-06-22,NA,NA,NA,25
-"4521","Santa Barbara","Biobío",8311,2020-06-22,NA,NA,NA,25
-"4522","Santa Cruz","O’Higgins",6310,2020-06-22,NA,NA,NA,25
-"4523","Santa Juana","Biobío",8109,2020-06-22,NA,NA,NA,25
-"4524","Santa Maria","Valparaíso",5706,2020-06-22,NA,NA,NA,25
-"4525","Santiago","Metropolitana",13101,2020-06-22,NA,NA,NA,25
-"4526","Santo Domingo","Valparaíso",5606,2020-06-22,NA,NA,NA,25
-"4527","Sierra Gorda","Antofagasta",2103,2020-06-22,NA,NA,NA,25
-"4528","Talagante","Metropolitana",13601,2020-06-22,NA,NA,NA,25
-"4529","Talca","Maule",7101,2020-06-22,NA,NA,NA,25
-"4530","Talcahuano","Biobío",8110,2020-06-22,NA,NA,NA,25
-"4531","Taltal","Antofagasta",2104,2020-06-22,NA,NA,NA,25
-"4532","Temuco","Araucanía",9101,2020-06-22,NA,NA,NA,25
-"4533","Teno","Maule",7308,2020-06-22,NA,NA,NA,25
-"4534","Teodoro Schmidt","Araucanía",9117,2020-06-22,NA,NA,NA,25
-"4535","Tierra Amarilla","Atacama",3103,2020-06-22,NA,NA,NA,25
-"4536","Tiltil","Metropolitana",13303,2020-06-22,NA,NA,NA,25
-"4537","Timaukel","Magallanes",12303,2020-06-22,NA,NA,NA,25
-"4538","Tirua","Biobío",8207,2020-06-22,NA,NA,NA,25
-"4539","Tocopilla","Antofagasta",2301,2020-06-22,NA,NA,NA,25
-"4540","Tolten","Araucanía",9118,2020-06-22,NA,NA,NA,25
-"4541","Tome","Biobío",8111,2020-06-22,NA,NA,NA,25
-"4542","Torres del Paine","Magallanes",12402,2020-06-22,NA,NA,NA,25
-"4543","Tortel","Aysén",11303,2020-06-22,NA,NA,NA,25
-"4544","Traiguen","Araucanía",9210,2020-06-22,NA,NA,NA,25
-"4545","Treguaco","Ñuble",16207,2020-06-22,NA,NA,NA,25
-"4546","Tucapel","Biobío",8312,2020-06-22,NA,NA,NA,25
-"4547","Valdivia","Los Ríos",14101,2020-06-22,NA,NA,NA,25
-"4548","Vallenar","Atacama",3301,2020-06-22,NA,NA,NA,25
-"4549","Valparaiso","Valparaíso",5101,2020-06-22,NA,NA,NA,25
-"4550","Vichuquen","Maule",7309,2020-06-22,NA,NA,NA,25
-"4551","Victoria","Araucanía",9211,2020-06-22,NA,NA,NA,25
-"4552","Vicuna","Coquimbo",4106,2020-06-22,NA,NA,NA,25
-"4553","Vilcun","Araucanía",9119,2020-06-22,NA,NA,NA,25
-"4554","Villa Alegre","Maule",7407,2020-06-22,NA,NA,NA,25
-"4555","Villa Alemana","Valparaíso",5804,2020-06-22,NA,NA,NA,25
-"4556","Villarrica","Araucanía",9120,2020-06-22,NA,NA,NA,25
-"4557","Vina del Mar","Valparaíso",5109,2020-06-22,NA,NA,NA,25
-"4558","Vitacura","Metropolitana",13132,2020-06-22,NA,NA,NA,25
-"4559","Yerbas Buenas","Maule",7408,2020-06-22,NA,NA,NA,25
-"4560","Yumbel","Biobío",8313,2020-06-22,NA,NA,NA,25
-"4561","Yungay","Ñuble",16109,2020-06-22,NA,NA,NA,25
-"4562","Zapallar","Valparaíso",5405,2020-06-22,NA,NA,NA,25
-"4563","Algarrobo","Valparaíso",5602,2020-06-29,NA,NA,NA,26
-"4564","Alhue","Metropolitana",13502,2020-06-29,NA,NA,NA,26
-"4565","Alto Biobio","Biobío",8314,2020-06-29,NA,NA,NA,26
-"4566","Alto del Carmen","Atacama",3302,2020-06-29,NA,NA,NA,26
-"4567","Alto Hospicio","Tarapacá",1107,2020-06-29,NA,NA,NA,26
-"4568","Ancud","Los Lagos",10202,2020-06-29,NA,NA,NA,26
-"4569","Andacollo","Coquimbo",4103,2020-06-29,NA,NA,NA,26
-"4570","Angol","Araucanía",9201,2020-06-29,NA,NA,NA,26
-"4571","Antartica","Magallanes",12202,2020-06-29,NA,NA,NA,26
-"4572","Antofagasta","Antofagasta",2101,2020-06-29,NA,NA,NA,26
-"4573","Antuco","Biobío",8302,2020-06-29,NA,NA,NA,26
-"4574","Arauco","Biobío",8202,2020-06-29,NA,NA,NA,26
-"4575","Arica","Arica y Parinacota",15101,2020-06-29,NA,NA,NA,26
-"4576","Aysén","Aysén",11201,2020-06-29,NA,NA,NA,26
-"4577","Buin","Metropolitana",13402,2020-06-29,NA,NA,NA,26
-"4578","Bulnes","Ñuble",16102,2020-06-29,NA,NA,NA,26
-"4579","Cabildo","Valparaíso",5402,2020-06-29,NA,NA,NA,26
-"4580","Cabo de Hornos","Magallanes",12201,2020-06-29,NA,NA,NA,26
-"4581","Cabrero","Biobío",8303,2020-06-29,NA,NA,NA,26
-"4582","Calama","Antofagasta",2201,2020-06-29,NA,NA,NA,26
-"4583","Calbuco","Los Lagos",10102,2020-06-29,NA,NA,NA,26
-"4584","Caldera","Atacama",3102,2020-06-29,NA,NA,NA,26
-"4585","Calera","Valparaíso",5502,2020-06-29,NA,NA,NA,26
-"4586","Calera de Tango","Metropolitana",13403,2020-06-29,NA,NA,NA,26
-"4587","Calle Larga","Valparaíso",5302,2020-06-29,NA,NA,NA,26
-"4588","Camarones","Arica y Parinacota",15102,2020-06-29,NA,NA,NA,26
-"4589","Camina","Tarapacá",1402,2020-06-29,NA,NA,NA,26
-"4590","Canela","Coquimbo",4202,2020-06-29,NA,NA,NA,26
-"4591","Canete","Biobío",8203,2020-06-29,NA,NA,NA,26
-"4592","Carahue","Araucanía",9102,2020-06-29,NA,NA,NA,26
-"4593","Cartagena","Valparaíso",5603,2020-06-29,NA,NA,NA,26
-"4594","Casablanca","Valparaíso",5102,2020-06-29,NA,NA,NA,26
-"4595","Castro","Los Lagos",10201,2020-06-29,NA,NA,NA,26
-"4596","Catemu","Valparaíso",5702,2020-06-29,NA,NA,NA,26
-"4597","Cauquenes","Maule",7201,2020-06-29,NA,NA,NA,26
-"4598","Cerrillos","Metropolitana",13102,2020-06-29,NA,NA,NA,26
-"4599","Cerro Navia","Metropolitana",13103,2020-06-29,NA,NA,NA,26
-"4600","Chaiten","Los Lagos",10401,2020-06-29,NA,NA,NA,26
-"4601","Chanaral","Atacama",3201,2020-06-29,NA,NA,NA,26
-"4602","Chanco","Maule",7202,2020-06-29,NA,NA,NA,26
-"4603","Chepica","O’Higgins",6302,2020-06-29,NA,NA,NA,26
-"4604","Chiguayante","Biobío",8103,2020-06-29,NA,NA,NA,26
-"4605","Chile Chico","Aysén",11401,2020-06-29,NA,NA,NA,26
-"4606","Chillan","Ñuble",16101,2020-06-29,NA,NA,NA,26
-"4607","Chillan Viejo","Ñuble",16103,2020-06-29,NA,NA,NA,26
-"4608","Chimbarongo","O’Higgins",6303,2020-06-29,NA,NA,NA,26
-"4609","Cholchol","Araucanía",9121,2020-06-29,NA,NA,NA,26
-"4610","Chonchi","Los Lagos",10203,2020-06-29,NA,NA,NA,26
-"4611","Cisnes","Aysén",11202,2020-06-29,NA,NA,NA,26
-"4612","Cobquecura","Ñuble",16202,2020-06-29,NA,NA,NA,26
-"4613","Cochamo","Los Lagos",10103,2020-06-29,NA,NA,NA,26
-"4614","Cochrane","Aysén",11301,2020-06-29,NA,NA,NA,26
-"4615","Codegua","O’Higgins",6102,2020-06-29,NA,NA,NA,26
-"4616","Coelemu","Ñuble",16203,2020-06-29,NA,NA,NA,26
-"4617","Coihueco","Ñuble",16302,2020-06-29,NA,NA,NA,26
-"4618","Coinco","O’Higgins",6103,2020-06-29,NA,NA,NA,26
-"4619","Colbun","Maule",7402,2020-06-29,NA,NA,NA,26
-"4620","Colchane","Tarapacá",1403,2020-06-29,NA,NA,NA,26
-"4621","Colina","Metropolitana",13301,2020-06-29,NA,NA,NA,26
-"4622","Collipulli","Araucanía",9202,2020-06-29,NA,NA,NA,26
-"4623","Coltauco","O’Higgins",6104,2020-06-29,NA,NA,NA,26
-"4624","Combarbala","Coquimbo",4302,2020-06-29,NA,NA,NA,26
-"4625","Concepcion","Biobío",8101,2020-06-29,NA,NA,NA,26
-"4626","Conchali","Metropolitana",13104,2020-06-29,NA,NA,NA,26
-"4627","Concon","Valparaíso",5103,2020-06-29,NA,NA,NA,26
-"4628","Constitucion","Maule",7102,2020-06-29,NA,NA,NA,26
-"4629","Contulmo","Biobío",8204,2020-06-29,NA,NA,NA,26
-"4630","Copiapo","Atacama",3101,2020-06-29,NA,NA,NA,26
-"4631","Coquimbo","Coquimbo",4102,2020-06-29,NA,NA,NA,26
-"4632","Coronel","Biobío",8102,2020-06-29,NA,NA,NA,26
-"4633","Corral","Los Ríos",14102,2020-06-29,NA,NA,NA,26
-"4634","Coyhaique","Aysén",11101,2020-06-29,NA,NA,NA,26
-"4635","Cunco","Araucanía",9103,2020-06-29,NA,NA,NA,26
-"4636","Curacautin","Araucanía",9203,2020-06-29,NA,NA,NA,26
-"4637","Curacavi","Metropolitana",13503,2020-06-29,NA,NA,NA,26
-"4638","Curaco de Velez","Los Lagos",10204,2020-06-29,NA,NA,NA,26
-"4639","Curanilahue","Biobío",8205,2020-06-29,NA,NA,NA,26
-"4640","Curarrehue","Araucanía",9104,2020-06-29,NA,NA,NA,26
-"4641","Curepto","Maule",7103,2020-06-29,NA,NA,NA,26
-"4642","Curico","Maule",7301,2020-06-29,NA,NA,NA,26
-"4643","Dalcahue","Los Lagos",10205,2020-06-29,NA,NA,NA,26
-"4644","Desconocido Antofagasta","Antofagasta",0,2020-06-29,NA,NA,NA,26
-"4645","Desconocido Araucania","Araucanía",0,2020-06-29,NA,NA,NA,26
-"4646","Desconocido Arica y Parinacota","Arica y Parinacota",0,2020-06-29,NA,NA,NA,26
-"4647","Desconocido Atacama","Atacama",0,2020-06-29,NA,NA,NA,26
-"4648","Desconocido Aysen","Aysén",0,2020-06-29,NA,NA,NA,26
-"4649","Desconocido Biobio","Biobío",0,2020-06-29,NA,NA,NA,26
-"4650","Desconocido Coquimbo","Coquimbo",0,2020-06-29,NA,NA,NA,26
-"4651","Desconocido Los Lagos","Los Lagos",0,2020-06-29,NA,NA,NA,26
-"4652","Desconocido Los Rios","Los Ríos",0,2020-06-29,NA,NA,NA,26
-"4653","Desconocido Magallanes","Magallanes",0,2020-06-29,NA,NA,NA,26
-"4654","Desconocido Maule","Maule",0,2020-06-29,NA,NA,NA,26
-"4655","Desconocido Metropolitana","Metropolitana",0,2020-06-29,NA,NA,NA,26
-"4656","Desconocido Nuble","Ñuble",0,2020-06-29,NA,NA,NA,26
-"4657","Desconocido O’Higgins","O’Higgins",0,2020-06-29,NA,NA,NA,26
-"4658","Desconocido Tarapaca","Tarapacá",0,2020-06-29,NA,NA,NA,26
-"4659","Desconocido Valparaiso","Valparaíso",0,2020-06-29,NA,NA,NA,26
-"4660","Diego de Almagro","Atacama",3202,2020-06-29,NA,NA,NA,26
-"4661","Donihue","O’Higgins",6105,2020-06-29,NA,NA,NA,26
-"4662","El Bosque","Metropolitana",13105,2020-06-29,NA,NA,NA,26
-"4663","El Carmen","Ñuble",16104,2020-06-29,NA,NA,NA,26
-"4664","El Monte","Metropolitana",13602,2020-06-29,NA,NA,NA,26
-"4665","El Quisco","Valparaíso",5604,2020-06-29,NA,NA,NA,26
-"4666","El Tabo","Valparaíso",5605,2020-06-29,NA,NA,NA,26
-"4667","Empedrado","Maule",7104,2020-06-29,NA,NA,NA,26
-"4668","Ercilla","Araucanía",9204,2020-06-29,NA,NA,NA,26
-"4669","Estacion Central","Metropolitana",13106,2020-06-29,NA,NA,NA,26
-"4670","Florida","Biobío",8104,2020-06-29,NA,NA,NA,26
-"4671","Freire","Araucanía",9105,2020-06-29,NA,NA,NA,26
-"4672","Freirina","Atacama",3303,2020-06-29,NA,NA,NA,26
-"4673","Fresia","Los Lagos",10104,2020-06-29,NA,NA,NA,26
-"4674","Frutillar","Los Lagos",10105,2020-06-29,NA,NA,NA,26
-"4675","Futaleufu","Los Lagos",10402,2020-06-29,NA,NA,NA,26
-"4676","Futrono","Los Ríos",14202,2020-06-29,NA,NA,NA,26
-"4677","Galvarino","Araucanía",9106,2020-06-29,NA,NA,NA,26
-"4678","General Lagos","Arica y Parinacota",15202,2020-06-29,NA,NA,NA,26
-"4679","Gorbea","Araucanía",9107,2020-06-29,NA,NA,NA,26
-"4680","Graneros","O’Higgins",6106,2020-06-29,NA,NA,NA,26
-"4681","Guaitecas","Aysén",11203,2020-06-29,NA,NA,NA,26
-"4682","Hijuelas","Valparaíso",5503,2020-06-29,NA,NA,NA,26
-"4683","Hualaihue","Los Lagos",10403,2020-06-29,NA,NA,NA,26
-"4684","Hualane","Maule",7302,2020-06-29,NA,NA,NA,26
-"4685","Hualpen","Biobío",8112,2020-06-29,NA,NA,NA,26
-"4686","Hualqui","Biobío",8105,2020-06-29,NA,NA,NA,26
-"4687","Huara","Tarapacá",1404,2020-06-29,NA,NA,NA,26
-"4688","Huasco","Atacama",3304,2020-06-29,NA,NA,NA,26
-"4689","Huechuraba","Metropolitana",13107,2020-06-29,NA,NA,NA,26
-"4690","Illapel","Coquimbo",4201,2020-06-29,NA,NA,NA,26
-"4691","Independencia","Metropolitana",13108,2020-06-29,NA,NA,NA,26
-"4692","Iquique","Tarapacá",1101,2020-06-29,NA,NA,NA,26
-"4693","Isla de Maipo","Metropolitana",13603,2020-06-29,NA,NA,NA,26
-"4694","Isla de Pascua","Valparaíso",5201,2020-06-29,NA,NA,NA,26
-"4695","Juan Fernandez","Valparaíso",5104,2020-06-29,NA,NA,NA,26
-"4696","La Cisterna","Metropolitana",13109,2020-06-29,NA,NA,NA,26
-"4697","La Cruz","Valparaíso",5504,2020-06-29,NA,NA,NA,26
-"4698","La Estrella","O’Higgins",6202,2020-06-29,NA,NA,NA,26
-"4699","La Florida","Metropolitana",13110,2020-06-29,NA,NA,NA,26
-"4700","La Granja","Metropolitana",13111,2020-06-29,NA,NA,NA,26
-"4701","La Higuera","Coquimbo",4104,2020-06-29,NA,NA,NA,26
-"4702","La Ligua","Valparaíso",5401,2020-06-29,NA,NA,NA,26
-"4703","La Pintana","Metropolitana",13112,2020-06-29,NA,NA,NA,26
-"4704","La Reina","Metropolitana",13113,2020-06-29,NA,NA,NA,26
-"4705","La Serena","Coquimbo",4101,2020-06-29,NA,NA,NA,26
-"4706","La Union","Los Ríos",14201,2020-06-29,NA,NA,NA,26
-"4707","Lago Ranco","Los Ríos",14203,2020-06-29,NA,NA,NA,26
-"4708","Lago Verde","Aysén",11102,2020-06-29,NA,NA,NA,26
-"4709","Laguna Blanca","Magallanes",12102,2020-06-29,NA,NA,NA,26
-"4710","Laja","Biobío",8304,2020-06-29,NA,NA,NA,26
-"4711","Lampa","Metropolitana",13302,2020-06-29,NA,NA,NA,26
-"4712","Lanco","Los Ríos",14103,2020-06-29,NA,NA,NA,26
-"4713","Las Cabras","O’Higgins",6107,2020-06-29,NA,NA,NA,26
-"4714","Las Condes","Metropolitana",13114,2020-06-29,NA,NA,NA,26
-"4715","Lautaro","Araucanía",9108,2020-06-29,NA,NA,NA,26
-"4716","Lebu","Biobío",8201,2020-06-29,NA,NA,NA,26
-"4717","Licanten","Maule",7303,2020-06-29,NA,NA,NA,26
-"4718","Limache","Valparaíso",5802,2020-06-29,NA,NA,NA,26
-"4719","Linares","Maule",7401,2020-06-29,NA,NA,NA,26
-"4720","Litueche","O’Higgins",6203,2020-06-29,NA,NA,NA,26
-"4721","Llaillay","Valparaíso",5703,2020-06-29,NA,NA,NA,26
-"4722","Llanquihue","Los Lagos",10107,2020-06-29,NA,NA,NA,26
-"4723","Lo Barnechea","Metropolitana",13115,2020-06-29,NA,NA,NA,26
-"4724","Lo Espejo","Metropolitana",13116,2020-06-29,NA,NA,NA,26
-"4725","Lo Prado","Metropolitana",13117,2020-06-29,NA,NA,NA,26
-"4726","Lolol","O’Higgins",6304,2020-06-29,NA,NA,NA,26
-"4727","Loncoche","Araucanía",9109,2020-06-29,NA,NA,NA,26
-"4728","Longavi","Maule",7403,2020-06-29,NA,NA,NA,26
-"4729","Lonquimay","Araucanía",9205,2020-06-29,NA,NA,NA,26
-"4730","Los Alamos","Biobío",8206,2020-06-29,NA,NA,NA,26
-"4731","Los Andes","Valparaíso",5301,2020-06-29,NA,NA,NA,26
-"4732","Los Angeles","Biobío",8301,2020-06-29,NA,NA,NA,26
-"4733","Los Lagos","Los Ríos",14104,2020-06-29,NA,NA,NA,26
-"4734","Los Muermos","Los Lagos",10106,2020-06-29,NA,NA,NA,26
-"4735","Los Sauces","Araucanía",9206,2020-06-29,NA,NA,NA,26
-"4736","Los Vilos","Coquimbo",4203,2020-06-29,NA,NA,NA,26
-"4737","Lota","Biobío",8106,2020-06-29,NA,NA,NA,26
-"4738","Lumaco","Araucanía",9207,2020-06-29,NA,NA,NA,26
-"4739","Machali","O’Higgins",6108,2020-06-29,NA,NA,NA,26
-"4740","Macul","Metropolitana",13118,2020-06-29,NA,NA,NA,26
-"4741","Mafil","Los Ríos",14105,2020-06-29,NA,NA,NA,26
-"4742","Maipu","Metropolitana",13119,2020-06-29,NA,NA,NA,26
-"4743","Malloa","O’Higgins",6109,2020-06-29,NA,NA,NA,26
-"4744","Marchihue","O’Higgins",6204,2020-06-29,NA,NA,NA,26
-"4745","Maria Elena","Antofagasta",2302,2020-06-29,NA,NA,NA,26
-"4746","Maria Pinto","Metropolitana",13504,2020-06-29,NA,NA,NA,26
-"4747","Mariquina","Los Ríos",14106,2020-06-29,NA,NA,NA,26
-"4748","Maule","Maule",7105,2020-06-29,NA,NA,NA,26
-"4749","Maullin","Los Lagos",10108,2020-06-29,NA,NA,NA,26
-"4750","Mejillones","Antofagasta",2102,2020-06-29,NA,NA,NA,26
-"4751","Melipeuco","Araucanía",9110,2020-06-29,NA,NA,NA,26
-"4752","Melipilla","Metropolitana",13501,2020-06-29,NA,NA,NA,26
-"4753","Molina","Maule",7304,2020-06-29,NA,NA,NA,26
-"4754","Monte Patria","Coquimbo",4303,2020-06-29,NA,NA,NA,26
-"4755","Mostazal","O’Higgins",6110,2020-06-29,NA,NA,NA,26
-"4756","Mulchen","Biobío",8305,2020-06-29,NA,NA,NA,26
-"4757","Nacimiento","Biobío",8306,2020-06-29,NA,NA,NA,26
-"4758","Nancagua","O’Higgins",6305,2020-06-29,NA,NA,NA,26
-"4759","Natales","Magallanes",12401,2020-06-29,NA,NA,NA,26
-"4760","Navidad","O’Higgins",6205,2020-06-29,NA,NA,NA,26
-"4761","Negrete","Biobío",8307,2020-06-29,NA,NA,NA,26
-"4762","Ninhue","Ñuble",16204,2020-06-29,NA,NA,NA,26
-"4763","Niquen","Ñuble",16303,2020-06-29,NA,NA,NA,26
-"4764","Nogales","Valparaíso",5506,2020-06-29,NA,NA,NA,26
-"4765","Nueva Imperial","Araucanía",9111,2020-06-29,NA,NA,NA,26
-"4766","Nunoa","Metropolitana",13120,2020-06-29,NA,NA,NA,26
-"4767","OHiggins","Aysén",11302,2020-06-29,NA,NA,NA,26
-"4768","Olivar","O’Higgins",6111,2020-06-29,NA,NA,NA,26
-"4769","Ollague","Antofagasta",2202,2020-06-29,NA,NA,NA,26
-"4770","Olmue","Valparaíso",5803,2020-06-29,NA,NA,NA,26
-"4771","Osorno","Los Lagos",10301,2020-06-29,NA,NA,NA,26
-"4772","Ovalle","Coquimbo",4301,2020-06-29,NA,NA,NA,26
-"4773","Padre Hurtado","Metropolitana",13604,2020-06-29,NA,NA,NA,26
-"4774","Padre Las Casas","Araucanía",9112,2020-06-29,NA,NA,NA,26
-"4775","Paiguano","Coquimbo",4105,2020-06-29,NA,NA,NA,26
-"4776","Paillaco","Los Ríos",14107,2020-06-29,NA,NA,NA,26
-"4777","Paine","Metropolitana",13404,2020-06-29,NA,NA,NA,26
-"4778","Palena","Los Lagos",10404,2020-06-29,NA,NA,NA,26
-"4779","Palmilla","O’Higgins",6306,2020-06-29,NA,NA,NA,26
-"4780","Panguipulli","Los Ríos",14108,2020-06-29,NA,NA,NA,26
-"4781","Panquehue","Valparaíso",5704,2020-06-29,NA,NA,NA,26
-"4782","Papudo","Valparaíso",5403,2020-06-29,NA,NA,NA,26
-"4783","Paredones","O’Higgins",6206,2020-06-29,NA,NA,NA,26
-"4784","Parral","Maule",7404,2020-06-29,NA,NA,NA,26
-"4785","Pedro Aguirre Cerda","Metropolitana",13121,2020-06-29,NA,NA,NA,26
-"4786","Pelarco","Maule",7106,2020-06-29,NA,NA,NA,26
-"4787","Pelluhue","Maule",7203,2020-06-29,NA,NA,NA,26
-"4788","Pemuco","Ñuble",16105,2020-06-29,NA,NA,NA,26
-"4789","Penaflor","Metropolitana",13605,2020-06-29,NA,NA,NA,26
-"4790","Penalolen","Metropolitana",13122,2020-06-29,NA,NA,NA,26
-"4791","Pencahue","Maule",7107,2020-06-29,NA,NA,NA,26
-"4792","Penco","Biobío",8107,2020-06-29,NA,NA,NA,26
-"4793","Peralillo","O’Higgins",6307,2020-06-29,NA,NA,NA,26
-"4794","Perquenco","Araucanía",9113,2020-06-29,NA,NA,NA,26
-"4795","Petorca","Valparaíso",5404,2020-06-29,NA,NA,NA,26
-"4796","Peumo","O’Higgins",6112,2020-06-29,NA,NA,NA,26
-"4797","Pica","Tarapacá",1405,2020-06-29,NA,NA,NA,26
-"4798","Pichidegua","O’Higgins",6113,2020-06-29,NA,NA,NA,26
-"4799","Pichilemu","O’Higgins",6201,2020-06-29,NA,NA,NA,26
-"4800","Pinto","Ñuble",16106,2020-06-29,NA,NA,NA,26
-"4801","Pirque","Metropolitana",13202,2020-06-29,NA,NA,NA,26
-"4802","Pitrufquen","Araucanía",9114,2020-06-29,NA,NA,NA,26
-"4803","Placilla","O’Higgins",6308,2020-06-29,NA,NA,NA,26
-"4804","Portezuelo","Ñuble",16205,2020-06-29,NA,NA,NA,26
-"4805","Porvenir","Magallanes",12301,2020-06-29,NA,NA,NA,26
-"4806","Pozo Almonte","Tarapacá",1401,2020-06-29,NA,NA,NA,26
-"4807","Primavera","Magallanes",12302,2020-06-29,NA,NA,NA,26
-"4808","Providencia","Metropolitana",13123,2020-06-29,NA,NA,NA,26
-"4809","Puchuncavi","Valparaíso",5105,2020-06-29,NA,NA,NA,26
-"4810","Pucon","Araucanía",9115,2020-06-29,NA,NA,NA,26
-"4811","Pudahuel","Metropolitana",13124,2020-06-29,NA,NA,NA,26
-"4812","Puente Alto","Metropolitana",13201,2020-06-29,NA,NA,NA,26
-"4813","Puerto Montt","Los Lagos",10101,2020-06-29,NA,NA,NA,26
-"4814","Puerto Octay","Los Lagos",10302,2020-06-29,NA,NA,NA,26
-"4815","Puerto Varas","Los Lagos",10109,2020-06-29,NA,NA,NA,26
-"4816","Pumanque","O’Higgins",6309,2020-06-29,NA,NA,NA,26
-"4817","Punitaqui","Coquimbo",4304,2020-06-29,NA,NA,NA,26
-"4818","Punta Arenas","Magallanes",12101,2020-06-29,NA,NA,NA,26
-"4819","Puqueldon","Los Lagos",10206,2020-06-29,NA,NA,NA,26
-"4820","Puren","Araucanía",9208,2020-06-29,NA,NA,NA,26
-"4821","Purranque","Los Lagos",10303,2020-06-29,NA,NA,NA,26
-"4822","Putaendo","Valparaíso",5705,2020-06-29,NA,NA,NA,26
-"4823","Putre","Arica y Parinacota",15201,2020-06-29,NA,NA,NA,26
-"4824","Puyehue","Los Lagos",10304,2020-06-29,NA,NA,NA,26
-"4825","Queilen","Los Lagos",10207,2020-06-29,NA,NA,NA,26
-"4826","Quellon","Los Lagos",10208,2020-06-29,NA,NA,NA,26
-"4827","Quemchi","Los Lagos",10209,2020-06-29,NA,NA,NA,26
-"4828","Quilaco","Biobío",8308,2020-06-29,NA,NA,NA,26
-"4829","Quilicura","Metropolitana",13125,2020-06-29,NA,NA,NA,26
-"4830","Quilleco","Biobío",8309,2020-06-29,NA,NA,NA,26
-"4831","Quillon","Ñuble",16107,2020-06-29,NA,NA,NA,26
-"4832","Quillota","Valparaíso",5501,2020-06-29,NA,NA,NA,26
-"4833","Quilpue","Valparaíso",5801,2020-06-29,NA,NA,NA,26
-"4834","Quinchao","Los Lagos",10210,2020-06-29,NA,NA,NA,26
-"4835","Quinta de Tilcoco","O’Higgins",6114,2020-06-29,NA,NA,NA,26
-"4836","Quinta Normal","Metropolitana",13126,2020-06-29,NA,NA,NA,26
-"4837","Quintero","Valparaíso",5107,2020-06-29,NA,NA,NA,26
-"4838","Quirihue","Ñuble",16201,2020-06-29,NA,NA,NA,26
-"4839","Rancagua","O’Higgins",6101,2020-06-29,NA,NA,NA,26
-"4840","Ranquil","Ñuble",16206,2020-06-29,NA,NA,NA,26
-"4841","Rauco","Maule",7305,2020-06-29,NA,NA,NA,26
-"4842","Recoleta","Metropolitana",13127,2020-06-29,NA,NA,NA,26
-"4843","Renaico","Araucanía",9209,2020-06-29,NA,NA,NA,26
-"4844","Renca","Metropolitana",13128,2020-06-29,NA,NA,NA,26
-"4845","Rengo","O’Higgins",6115,2020-06-29,NA,NA,NA,26
-"4846","Requinoa","O’Higgins",6116,2020-06-29,NA,NA,NA,26
-"4847","Retiro","Maule",7405,2020-06-29,NA,NA,NA,26
-"4848","Rinconada","Valparaíso",5303,2020-06-29,NA,NA,NA,26
-"4849","Rio Bueno","Los Ríos",14204,2020-06-29,NA,NA,NA,26
-"4850","Rio Claro","Maule",7108,2020-06-29,NA,NA,NA,26
-"4851","Rio Hurtado","Coquimbo",4305,2020-06-29,NA,NA,NA,26
-"4852","Rio Ibanez","Aysén",11402,2020-06-29,NA,NA,NA,26
-"4853","Rio Negro","Los Lagos",10305,2020-06-29,NA,NA,NA,26
-"4854","Rio Verde","Magallanes",12103,2020-06-29,NA,NA,NA,26
-"4855","Romeral","Maule",7306,2020-06-29,NA,NA,NA,26
-"4856","Saavedra","Araucanía",9116,2020-06-29,NA,NA,NA,26
-"4857","Sagrada Familia","Maule",7307,2020-06-29,NA,NA,NA,26
-"4858","Salamanca","Coquimbo",4204,2020-06-29,NA,NA,NA,26
-"4859","San Antonio","Valparaíso",5601,2020-06-29,NA,NA,NA,26
-"4860","San Bernardo","Metropolitana",13401,2020-06-29,NA,NA,NA,26
-"4861","San Carlos","Ñuble",16301,2020-06-29,NA,NA,NA,26
-"4862","San Clemente","Maule",7109,2020-06-29,NA,NA,NA,26
-"4863","San Esteban","Valparaíso",5304,2020-06-29,NA,NA,NA,26
-"4864","San Fabian","Ñuble",16304,2020-06-29,NA,NA,NA,26
-"4865","San Felipe","Valparaíso",5701,2020-06-29,NA,NA,NA,26
-"4866","San Fernando","O’Higgins",6301,2020-06-29,NA,NA,NA,26
-"4867","San Gregorio","Magallanes",12104,2020-06-29,NA,NA,NA,26
-"4868","San Ignacio","Ñuble",16108,2020-06-29,NA,NA,NA,26
-"4869","San Javier","Maule",7406,2020-06-29,NA,NA,NA,26
-"4870","San Joaquin","Metropolitana",13129,2020-06-29,NA,NA,NA,26
-"4871","San Jose de Maipo","Metropolitana",13203,2020-06-29,NA,NA,NA,26
-"4872","San Juan de la Costa","Los Lagos",10306,2020-06-29,NA,NA,NA,26
-"4873","San Miguel","Metropolitana",13130,2020-06-29,NA,NA,NA,26
-"4874","San Nicolas","Ñuble",16305,2020-06-29,NA,NA,NA,26
-"4875","San Pablo","Los Lagos",10307,2020-06-29,NA,NA,NA,26
-"4876","San Pedro","Metropolitana",13505,2020-06-29,NA,NA,NA,26
-"4877","San Pedro de Atacama","Antofagasta",2203,2020-06-29,NA,NA,NA,26
-"4878","San Pedro de la Paz","Biobío",8108,2020-06-29,NA,NA,NA,26
-"4879","San Rafael","Maule",7110,2020-06-29,NA,NA,NA,26
-"4880","San Ramon","Metropolitana",13131,2020-06-29,NA,NA,NA,26
-"4881","San Rosendo","Biobío",8310,2020-06-29,NA,NA,NA,26
-"4882","San Vicente","O’Higgins",6117,2020-06-29,NA,NA,NA,26
-"4883","Santa Barbara","Biobío",8311,2020-06-29,NA,NA,NA,26
-"4884","Santa Cruz","O’Higgins",6310,2020-06-29,NA,NA,NA,26
-"4885","Santa Juana","Biobío",8109,2020-06-29,NA,NA,NA,26
-"4886","Santa Maria","Valparaíso",5706,2020-06-29,NA,NA,NA,26
-"4887","Santiago","Metropolitana",13101,2020-06-29,NA,NA,NA,26
-"4888","Santo Domingo","Valparaíso",5606,2020-06-29,NA,NA,NA,26
-"4889","Sierra Gorda","Antofagasta",2103,2020-06-29,NA,NA,NA,26
-"4890","Talagante","Metropolitana",13601,2020-06-29,NA,NA,NA,26
-"4891","Talca","Maule",7101,2020-06-29,NA,NA,NA,26
-"4892","Talcahuano","Biobío",8110,2020-06-29,NA,NA,NA,26
-"4893","Taltal","Antofagasta",2104,2020-06-29,NA,NA,NA,26
-"4894","Temuco","Araucanía",9101,2020-06-29,NA,NA,NA,26
-"4895","Teno","Maule",7308,2020-06-29,NA,NA,NA,26
-"4896","Teodoro Schmidt","Araucanía",9117,2020-06-29,NA,NA,NA,26
-"4897","Tierra Amarilla","Atacama",3103,2020-06-29,NA,NA,NA,26
-"4898","Tiltil","Metropolitana",13303,2020-06-29,NA,NA,NA,26
-"4899","Timaukel","Magallanes",12303,2020-06-29,NA,NA,NA,26
-"4900","Tirua","Biobío",8207,2020-06-29,NA,NA,NA,26
-"4901","Tocopilla","Antofagasta",2301,2020-06-29,NA,NA,NA,26
-"4902","Tolten","Araucanía",9118,2020-06-29,NA,NA,NA,26
-"4903","Tome","Biobío",8111,2020-06-29,NA,NA,NA,26
-"4904","Torres del Paine","Magallanes",12402,2020-06-29,NA,NA,NA,26
-"4905","Tortel","Aysén",11303,2020-06-29,NA,NA,NA,26
-"4906","Traiguen","Araucanía",9210,2020-06-29,NA,NA,NA,26
-"4907","Treguaco","Ñuble",16207,2020-06-29,NA,NA,NA,26
-"4908","Tucapel","Biobío",8312,2020-06-29,NA,NA,NA,26
-"4909","Valdivia","Los Ríos",14101,2020-06-29,NA,NA,NA,26
-"4910","Vallenar","Atacama",3301,2020-06-29,NA,NA,NA,26
-"4911","Valparaiso","Valparaíso",5101,2020-06-29,NA,NA,NA,26
-"4912","Vichuquen","Maule",7309,2020-06-29,NA,NA,NA,26
-"4913","Victoria","Araucanía",9211,2020-06-29,NA,NA,NA,26
-"4914","Vicuna","Coquimbo",4106,2020-06-29,NA,NA,NA,26
-"4915","Vilcun","Araucanía",9119,2020-06-29,NA,NA,NA,26
-"4916","Villa Alegre","Maule",7407,2020-06-29,NA,NA,NA,26
-"4917","Villa Alemana","Valparaíso",5804,2020-06-29,NA,NA,NA,26
-"4918","Villarrica","Araucanía",9120,2020-06-29,NA,NA,NA,26
-"4919","Vina del Mar","Valparaíso",5109,2020-06-29,NA,NA,NA,26
-"4920","Vitacura","Metropolitana",13132,2020-06-29,NA,NA,NA,26
-"4921","Yerbas Buenas","Maule",7408,2020-06-29,NA,NA,NA,26
-"4922","Yumbel","Biobío",8313,2020-06-29,NA,NA,NA,26
-"4923","Yungay","Ñuble",16109,2020-06-29,NA,NA,NA,26
-"4924","Zapallar","Valparaíso",5405,2020-06-29,NA,NA,NA,26
+"4201","Antofagasta","Antofagasta",2101,2020-07-27,0.535864978902954,0.567328918322296,0.650393471291169,30
+"4202","Calama","Antofagasta",2201,2020-07-27,0.596385542168675,0.567328918322296,0.650393471291169,30
+"4203","Maria Elena","Antofagasta",2302,2020-07-27,0.714285714285714,0.567328918322296,0.650393471291169,30
+"4204","Mejillones","Antofagasta",2102,2020-07-27,0.818181818181818,0.567328918322296,0.650393471291169,30
+"4205","Ollague","Antofagasta",2202,2020-07-27,NA,0.567328918322296,0.650393471291169,30
+"4206","San Pedro de Atacama","Antofagasta",2203,2020-07-27,0.5,0.567328918322296,0.650393471291169,30
+"4207","Sierra Gorda","Antofagasta",2103,2020-07-27,0.833333333333333,0.567328918322296,0.650393471291169,30
+"4208","Taltal","Antofagasta",2104,2020-07-27,0.333333333333333,0.567328918322296,0.650393471291169,30
+"4209","Tocopilla","Antofagasta",2301,2020-07-27,0.454545454545455,0.567328918322296,0.650393471291169,30
+"4210","Desconocido Antofagasta","Antofagasta",0,2020-07-27,NA,0.567328918322296,0.650393471291169,30
+"4211","Angol","Araucanía",9201,2020-07-27,0.727272727272727,0.725490196078431,0.650393471291169,30
+"4212","Carahue","Araucanía",9102,2020-07-27,0.833333333333333,0.725490196078431,0.650393471291169,30
+"4213","Cholchol","Araucanía",9121,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4214","Collipulli","Araucanía",9202,2020-07-27,1,0.725490196078431,0.650393471291169,30
+"4215","Cunco","Araucanía",9103,2020-07-27,1,0.725490196078431,0.650393471291169,30
+"4216","Curacautin","Araucanía",9203,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4217","Curarrehue","Araucanía",9104,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4218","Ercilla","Araucanía",9204,2020-07-27,0.833333333333333,0.725490196078431,0.650393471291169,30
+"4219","Freire","Araucanía",9105,2020-07-27,0.666666666666667,0.725490196078431,0.650393471291169,30
+"4220","Galvarino","Araucanía",9106,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4221","Gorbea","Araucanía",9107,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4222","Lautaro","Araucanía",9108,2020-07-27,0.5,0.725490196078431,0.650393471291169,30
+"4223","Loncoche","Araucanía",9109,2020-07-27,1,0.725490196078431,0.650393471291169,30
+"4224","Lonquimay","Araucanía",9205,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4225","Los Sauces","Araucanía",9206,2020-07-27,1,0.725490196078431,0.650393471291169,30
+"4226","Lumaco","Araucanía",9207,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4227","Melipeuco","Araucanía",9110,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4228","Nueva Imperial","Araucanía",9111,2020-07-27,0,0.725490196078431,0.650393471291169,30
+"4229","Padre Las Casas","Araucanía",9112,2020-07-27,0.666666666666667,0.725490196078431,0.650393471291169,30
+"4230","Perquenco","Araucanía",9113,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4231","Pitrufquen","Araucanía",9114,2020-07-27,0.5,0.725490196078431,0.650393471291169,30
+"4232","Pucon","Araucanía",9115,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4233","Puren","Araucanía",9208,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4234","Renaico","Araucanía",9209,2020-07-27,0.75,0.725490196078431,0.650393471291169,30
+"4235","Saavedra","Araucanía",9116,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4236","Temuco","Araucanía",9101,2020-07-27,0.774193548387097,0.725490196078431,0.650393471291169,30
+"4237","Teodoro Schmidt","Araucanía",9117,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4238","Tolten","Araucanía",9118,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4239","Traiguen","Araucanía",9210,2020-07-27,1,0.725490196078431,0.650393471291169,30
+"4240","Victoria","Araucanía",9211,2020-07-27,0.625,0.725490196078431,0.650393471291169,30
+"4241","Vilcun","Araucanía",9119,2020-07-27,0.714285714285714,0.725490196078431,0.650393471291169,30
+"4242","Villarrica","Araucanía",9120,2020-07-27,0,0.725490196078431,0.650393471291169,30
+"4243","Desconocido Araucania","Araucanía",0,2020-07-27,NA,0.725490196078431,0.650393471291169,30
+"4244","Arica","Arica y Parinacota",15101,2020-07-27,0.62379421221865,0.617834394904459,0.650393471291169,30
+"4245","Camarones","Arica y Parinacota",15102,2020-07-27,0,0.617834394904459,0.650393471291169,30
+"4246","General Lagos","Arica y Parinacota",15202,2020-07-27,NA,0.617834394904459,0.650393471291169,30
+"4247","Putre","Arica y Parinacota",15201,2020-07-27,0,0.617834394904459,0.650393471291169,30
+"4248","Desconocido Arica y Parinacota","Arica y Parinacota",0,2020-07-27,NA,0.617834394904459,0.650393471291169,30
+"4249","Alto del Carmen","Atacama",3302,2020-07-27,0,0.804878048780488,0.650393471291169,30
+"4250","Caldera","Atacama",3102,2020-07-27,1,0.804878048780488,0.650393471291169,30
+"4251","Chanaral","Atacama",3201,2020-07-27,0.571428571428571,0.804878048780488,0.650393471291169,30
+"4252","Copiapo","Atacama",3101,2020-07-27,0.790816326530612,0.804878048780488,0.650393471291169,30
+"4253","Diego de Almagro","Atacama",3202,2020-07-27,1,0.804878048780488,0.650393471291169,30
+"4254","Freirina","Atacama",3303,2020-07-27,1,0.804878048780488,0.650393471291169,30
+"4255","Huasco","Atacama",3304,2020-07-27,1,0.804878048780488,0.650393471291169,30
+"4256","Tierra Amarilla","Atacama",3103,2020-07-27,0.95,0.804878048780488,0.650393471291169,30
+"4257","Vallenar","Atacama",3301,2020-07-27,0.8,0.804878048780488,0.650393471291169,30
+"4258","Desconocido Atacama","Atacama",0,2020-07-27,NA,0.804878048780488,0.650393471291169,30
+"4259","Aysén","Aysén",11201,2020-07-27,0.8,0.8,0.650393471291169,30
+"4260","Chile Chico","Aysén",11401,2020-07-27,NA,0.8,0.650393471291169,30
+"4261","Cisnes","Aysén",11202,2020-07-27,NA,0.8,0.650393471291169,30
+"4262","Cochrane","Aysén",11301,2020-07-27,NA,0.8,0.650393471291169,30
+"4263","Coyhaique","Aysén",11101,2020-07-27,NA,0.8,0.650393471291169,30
+"4264","Guaitecas","Aysén",11203,2020-07-27,NA,0.8,0.650393471291169,30
+"4265","Lago Verde","Aysén",11102,2020-07-27,NA,0.8,0.650393471291169,30
+"4266","OHiggins","Aysén",11302,2020-07-27,NA,0.8,0.650393471291169,30
+"4267","Rio Ibanez","Aysén",11402,2020-07-27,NA,0.8,0.650393471291169,30
+"4268","Tortel","Aysén",11303,2020-07-27,NA,0.8,0.650393471291169,30
+"4269","Desconocido Aysen","Aysén",0,2020-07-27,NA,0.8,0.650393471291169,30
+"4270","Alto Biobio","Biobío",8314,2020-07-27,NA,0.760377358490566,0.650393471291169,30
+"4271","Antuco","Biobío",8302,2020-07-27,1,0.760377358490566,0.650393471291169,30
+"4272","Arauco","Biobío",8202,2020-07-27,0.88,0.760377358490566,0.650393471291169,30
+"4273","Cabrero","Biobío",8303,2020-07-27,NA,0.760377358490566,0.650393471291169,30
+"4274","Canete","Biobío",8203,2020-07-27,0.833333333333333,0.760377358490566,0.650393471291169,30
+"4275","Chiguayante","Biobío",8103,2020-07-27,0.766666666666667,0.760377358490566,0.650393471291169,30
+"4276","Concepcion","Biobío",8101,2020-07-27,0.816666666666667,0.760377358490566,0.650393471291169,30
+"4277","Contulmo","Biobío",8204,2020-07-27,1,0.760377358490566,0.650393471291169,30
+"4278","Coronel","Biobío",8102,2020-07-27,0.730769230769231,0.760377358490566,0.650393471291169,30
+"4279","Curanilahue","Biobío",8205,2020-07-27,0.833333333333333,0.760377358490566,0.650393471291169,30
+"4280","Florida","Biobío",8104,2020-07-27,0.769230769230769,0.760377358490566,0.650393471291169,30
+"4281","Hualpen","Biobío",8112,2020-07-27,0.558823529411765,0.760377358490566,0.650393471291169,30
+"4282","Hualqui","Biobío",8105,2020-07-27,0.857142857142857,0.760377358490566,0.650393471291169,30
+"4283","Laja","Biobío",8304,2020-07-27,0.9,0.760377358490566,0.650393471291169,30
+"4284","Lebu","Biobío",8201,2020-07-27,0.75,0.760377358490566,0.650393471291169,30
+"4285","Los Alamos","Biobío",8206,2020-07-27,0.8,0.760377358490566,0.650393471291169,30
+"4286","Los Angeles","Biobío",8301,2020-07-27,0.771428571428571,0.760377358490566,0.650393471291169,30
+"4287","Lota","Biobío",8106,2020-07-27,1,0.760377358490566,0.650393471291169,30
+"4288","Mulchen","Biobío",8305,2020-07-27,1,0.760377358490566,0.650393471291169,30
+"4289","Nacimiento","Biobío",8306,2020-07-27,0.333333333333333,0.760377358490566,0.650393471291169,30
+"4290","Negrete","Biobío",8307,2020-07-27,1,0.760377358490566,0.650393471291169,30
+"4291","Penco","Biobío",8107,2020-07-27,0.653846153846154,0.760377358490566,0.650393471291169,30
+"4292","Quilaco","Biobío",8308,2020-07-27,NA,0.760377358490566,0.650393471291169,30
+"4293","Quilleco","Biobío",8309,2020-07-27,1,0.760377358490566,0.650393471291169,30
+"4294","San Pedro de la Paz","Biobío",8108,2020-07-27,0.966666666666667,0.760377358490566,0.650393471291169,30
+"4295","San Rosendo","Biobío",8310,2020-07-27,NA,0.760377358490566,0.650393471291169,30
+"4296","Santa Barbara","Biobío",8311,2020-07-27,0.777777777777778,0.760377358490566,0.650393471291169,30
+"4297","Santa Juana","Biobío",8109,2020-07-27,NA,0.760377358490566,0.650393471291169,30
+"4298","Talcahuano","Biobío",8110,2020-07-27,0.608695652173913,0.760377358490566,0.650393471291169,30
+"4299","Tirua","Biobío",8207,2020-07-27,1,0.760377358490566,0.650393471291169,30
+"4300","Tome","Biobío",8111,2020-07-27,0.923076923076923,0.760377358490566,0.650393471291169,30
+"4301","Tucapel","Biobío",8312,2020-07-27,0.666666666666667,0.760377358490566,0.650393471291169,30
+"4302","Yumbel","Biobío",8313,2020-07-27,1,0.760377358490566,0.650393471291169,30
+"4303","Desconocido Biobio","Biobío",0,2020-07-27,NA,0.760377358490566,0.650393471291169,30
+"4304","Andacollo","Coquimbo",4103,2020-07-27,NA,0.612068965517241,0.650393471291169,30
+"4305","Canela","Coquimbo",4202,2020-07-27,0.333333333333333,0.612068965517241,0.650393471291169,30
+"4306","Combarbala","Coquimbo",4302,2020-07-27,0,0.612068965517241,0.650393471291169,30
+"4307","Coquimbo","Coquimbo",4102,2020-07-27,0.547368421052632,0.612068965517241,0.650393471291169,30
+"4308","Illapel","Coquimbo",4201,2020-07-27,0.3,0.612068965517241,0.650393471291169,30
+"4309","La Higuera","Coquimbo",4104,2020-07-27,0.0909090909090909,0.612068965517241,0.650393471291169,30
+"4310","La Serena","Coquimbo",4101,2020-07-27,0.802469135802469,0.612068965517241,0.650393471291169,30
+"4311","Los Vilos","Coquimbo",4203,2020-07-27,0.3,0.612068965517241,0.650393471291169,30
+"4312","Monte Patria","Coquimbo",4303,2020-07-27,1,0.612068965517241,0.650393471291169,30
+"4313","Ovalle","Coquimbo",4301,2020-07-27,0.576923076923077,0.612068965517241,0.650393471291169,30
+"4314","Paiguano","Coquimbo",4105,2020-07-27,NA,0.612068965517241,0.650393471291169,30
+"4315","Punitaqui","Coquimbo",4304,2020-07-27,0.4,0.612068965517241,0.650393471291169,30
+"4316","Rio Hurtado","Coquimbo",4305,2020-07-27,0.5,0.612068965517241,0.650393471291169,30
+"4317","Salamanca","Coquimbo",4204,2020-07-27,0.6,0.612068965517241,0.650393471291169,30
+"4318","Vicuna","Coquimbo",4106,2020-07-27,0.5,0.612068965517241,0.650393471291169,30
+"4319","Desconocido Coquimbo","Coquimbo",0,2020-07-27,NA,0.612068965517241,0.650393471291169,30
+"4320","Ancud","Los Lagos",10202,2020-07-27,0.8,0.734210526315789,0.650393471291169,30
+"4321","Calbuco","Los Lagos",10102,2020-07-27,0.2,0.734210526315789,0.650393471291169,30
+"4322","Castro","Los Lagos",10201,2020-07-27,1,0.734210526315789,0.650393471291169,30
+"4323","Chaiten","Los Lagos",10401,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4324","Chonchi","Los Lagos",10203,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4325","Cochamo","Los Lagos",10103,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4326","Curaco de Velez","Los Lagos",10204,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4327","Dalcahue","Los Lagos",10205,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4328","Fresia","Los Lagos",10104,2020-07-27,0.333333333333333,0.734210526315789,0.650393471291169,30
+"4329","Frutillar","Los Lagos",10105,2020-07-27,0.5,0.734210526315789,0.650393471291169,30
+"4330","Futaleufu","Los Lagos",10402,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4331","Hualaihue","Los Lagos",10403,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4332","Llanquihue","Los Lagos",10107,2020-07-27,0.769230769230769,0.734210526315789,0.650393471291169,30
+"4333","Los Muermos","Los Lagos",10106,2020-07-27,1,0.734210526315789,0.650393471291169,30
+"4334","Maullin","Los Lagos",10108,2020-07-27,0.833333333333333,0.734210526315789,0.650393471291169,30
+"4335","Osorno","Los Lagos",10301,2020-07-27,0.55,0.734210526315789,0.650393471291169,30
+"4336","Palena","Los Lagos",10404,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4337","Puerto Montt","Los Lagos",10101,2020-07-27,0.772549019607843,0.734210526315789,0.650393471291169,30
+"4338","Puerto Octay","Los Lagos",10302,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4339","Puerto Varas","Los Lagos",10109,2020-07-27,0.7,0.734210526315789,0.650393471291169,30
+"4340","Puqueldon","Los Lagos",10206,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4341","Purranque","Los Lagos",10303,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4342","Puyehue","Los Lagos",10304,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4343","Queilen","Los Lagos",10207,2020-07-27,0,0.734210526315789,0.650393471291169,30
+"4344","Quellon","Los Lagos",10208,2020-07-27,1,0.734210526315789,0.650393471291169,30
+"4345","Quemchi","Los Lagos",10209,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4346","Quinchao","Los Lagos",10210,2020-07-27,0,0.734210526315789,0.650393471291169,30
+"4347","Rio Negro","Los Lagos",10305,2020-07-27,1,0.734210526315789,0.650393471291169,30
+"4348","San Juan de la Costa","Los Lagos",10306,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4349","San Pablo","Los Lagos",10307,2020-07-27,0,0.734210526315789,0.650393471291169,30
+"4350","Desconocido Los Lagos","Los Lagos",0,2020-07-27,NA,0.734210526315789,0.650393471291169,30
+"4351","Corral","Los Ríos",14102,2020-07-27,NA,0.846153846153846,0.650393471291169,30
+"4352","Futrono","Los Ríos",14202,2020-07-27,NA,0.846153846153846,0.650393471291169,30
+"4353","La Union","Los Ríos",14201,2020-07-27,1,0.846153846153846,0.650393471291169,30
+"4354","Lago Ranco","Los Ríos",14203,2020-07-27,NA,0.846153846153846,0.650393471291169,30
+"4355","Lanco","Los Ríos",14103,2020-07-27,NA,0.846153846153846,0.650393471291169,30
+"4356","Los Lagos","Los Ríos",14104,2020-07-27,NA,0.846153846153846,0.650393471291169,30
+"4357","Mafil","Los Ríos",14105,2020-07-27,0.888888888888889,0.846153846153846,0.650393471291169,30
+"4358","Mariquina","Los Ríos",14106,2020-07-27,NA,0.846153846153846,0.650393471291169,30
+"4359","Paillaco","Los Ríos",14107,2020-07-27,1,0.846153846153846,0.650393471291169,30
+"4360","Panguipulli","Los Ríos",14108,2020-07-27,NA,0.846153846153846,0.650393471291169,30
+"4361","Rio Bueno","Los Ríos",14204,2020-07-27,0.5,0.846153846153846,0.650393471291169,30
+"4362","Valdivia","Los Ríos",14101,2020-07-27,0.8,0.846153846153846,0.650393471291169,30
+"4363","Desconocido Los Rios","Los Ríos",0,2020-07-27,NA,0.846153846153846,0.650393471291169,30
+"4364","Antartica","Magallanes",12202,2020-07-27,NA,0.923076923076923,0.650393471291169,30
+"4365","Cabo de Hornos","Magallanes",12201,2020-07-27,NA,0.923076923076923,0.650393471291169,30
+"4366","Laguna Blanca","Magallanes",12102,2020-07-27,NA,0.923076923076923,0.650393471291169,30
+"4367","Natales","Magallanes",12401,2020-07-27,NA,0.923076923076923,0.650393471291169,30
+"4368","Porvenir","Magallanes",12301,2020-07-27,NA,0.923076923076923,0.650393471291169,30
+"4369","Primavera","Magallanes",12302,2020-07-27,NA,0.923076923076923,0.650393471291169,30
+"4370","Punta Arenas","Magallanes",12101,2020-07-27,0.923076923076923,0.923076923076923,0.650393471291169,30
+"4371","Rio Verde","Magallanes",12103,2020-07-27,NA,0.923076923076923,0.650393471291169,30
+"4372","San Gregorio","Magallanes",12104,2020-07-27,NA,0.923076923076923,0.650393471291169,30
+"4373","Timaukel","Magallanes",12303,2020-07-27,NA,0.923076923076923,0.650393471291169,30
+"4374","Torres del Paine","Magallanes",12402,2020-07-27,NA,0.923076923076923,0.650393471291169,30
+"4375","Desconocido Magallanes","Magallanes",0,2020-07-27,NA,0.923076923076923,0.650393471291169,30
+"4376","Cauquenes","Maule",7201,2020-07-27,1,0.836619718309859,0.650393471291169,30
+"4377","Chanco","Maule",7202,2020-07-27,1,0.836619718309859,0.650393471291169,30
+"4378","Colbun","Maule",7402,2020-07-27,0.9,0.836619718309859,0.650393471291169,30
+"4379","Constitucion","Maule",7102,2020-07-27,0.916666666666667,0.836619718309859,0.650393471291169,30
+"4380","Curepto","Maule",7103,2020-07-27,NA,0.836619718309859,0.650393471291169,30
+"4381","Curico","Maule",7301,2020-07-27,0.721311475409836,0.836619718309859,0.650393471291169,30
+"4382","Empedrado","Maule",7104,2020-07-27,NA,0.836619718309859,0.650393471291169,30
+"4383","Hualane","Maule",7302,2020-07-27,NA,0.836619718309859,0.650393471291169,30
+"4384","Licanten","Maule",7303,2020-07-27,0,0.836619718309859,0.650393471291169,30
+"4385","Linares","Maule",7401,2020-07-27,0.760869565217391,0.836619718309859,0.650393471291169,30
+"4386","Longavi","Maule",7403,2020-07-27,1,0.836619718309859,0.650393471291169,30
+"4387","Maule","Maule",7105,2020-07-27,0.666666666666667,0.836619718309859,0.650393471291169,30
+"4388","Molina","Maule",7304,2020-07-27,NA,0.836619718309859,0.650393471291169,30
+"4389","Parral","Maule",7404,2020-07-27,0.8,0.836619718309859,0.650393471291169,30
+"4390","Pelarco","Maule",7106,2020-07-27,0.733333333333333,0.836619718309859,0.650393471291169,30
+"4391","Pelluhue","Maule",7203,2020-07-27,0.5,0.836619718309859,0.650393471291169,30
+"4392","Pencahue","Maule",7107,2020-07-27,1,0.836619718309859,0.650393471291169,30
+"4393","Rauco","Maule",7305,2020-07-27,0.75,0.836619718309859,0.650393471291169,30
+"4394","Retiro","Maule",7405,2020-07-27,1,0.836619718309859,0.650393471291169,30
+"4395","Rio Claro","Maule",7108,2020-07-27,0.833333333333333,0.836619718309859,0.650393471291169,30
+"4396","Romeral","Maule",7306,2020-07-27,0.9,0.836619718309859,0.650393471291169,30
+"4397","Sagrada Familia","Maule",7307,2020-07-27,1,0.836619718309859,0.650393471291169,30
+"4398","San Clemente","Maule",7109,2020-07-27,0.8,0.836619718309859,0.650393471291169,30
+"4399","San Javier","Maule",7406,2020-07-27,1,0.836619718309859,0.650393471291169,30
+"4400","San Rafael","Maule",7110,2020-07-27,NA,0.836619718309859,0.650393471291169,30
+"4401","Talca","Maule",7101,2020-07-27,0.857142857142857,0.836619718309859,0.650393471291169,30
+"4402","Teno","Maule",7308,2020-07-27,NA,0.836619718309859,0.650393471291169,30
+"4403","Vichuquen","Maule",7309,2020-07-27,NA,0.836619718309859,0.650393471291169,30
+"4404","Villa Alegre","Maule",7407,2020-07-27,0.571428571428571,0.836619718309859,0.650393471291169,30
+"4405","Yerbas Buenas","Maule",7408,2020-07-27,1,0.836619718309859,0.650393471291169,30
+"4406","Desconocido Maule","Maule",0,2020-07-27,NA,0.836619718309859,0.650393471291169,30
+"4407","Alhue","Metropolitana",13502,2020-07-27,0.785714285714286,0.58531394111387,0.650393471291169,30
+"4408","Buin","Metropolitana",13402,2020-07-27,0.684210526315789,0.58531394111387,0.650393471291169,30
+"4409","Calera de Tango","Metropolitana",13403,2020-07-27,0.888888888888889,0.58531394111387,0.650393471291169,30
+"4410","Cerrillos","Metropolitana",13102,2020-07-27,0.85,0.58531394111387,0.650393471291169,30
+"4411","Cerro Navia","Metropolitana",13103,2020-07-27,0.459016393442623,0.58531394111387,0.650393471291169,30
+"4412","Colina","Metropolitana",13301,2020-07-27,0.486486486486487,0.58531394111387,0.650393471291169,30
+"4413","Conchali","Metropolitana",13104,2020-07-27,0.693877551020408,0.58531394111387,0.650393471291169,30
+"4414","Curacavi","Metropolitana",13503,2020-07-27,0.846153846153846,0.58531394111387,0.650393471291169,30
+"4415","El Bosque","Metropolitana",13105,2020-07-27,0.609375,0.58531394111387,0.650393471291169,30
+"4416","El Monte","Metropolitana",13602,2020-07-27,0.684210526315789,0.58531394111387,0.650393471291169,30
+"4417","Estacion Central","Metropolitana",13106,2020-07-27,0.66,0.58531394111387,0.650393471291169,30
+"4418","Huechuraba","Metropolitana",13107,2020-07-27,0.5,0.58531394111387,0.650393471291169,30
+"4419","Independencia","Metropolitana",13108,2020-07-27,0.697674418604651,0.58531394111387,0.650393471291169,30
+"4420","Isla de Maipo","Metropolitana",13603,2020-07-27,0.571428571428571,0.58531394111387,0.650393471291169,30
+"4421","La Cisterna","Metropolitana",13109,2020-07-27,0.782608695652174,0.58531394111387,0.650393471291169,30
+"4422","La Florida","Metropolitana",13110,2020-07-27,0.623931623931624,0.58531394111387,0.650393471291169,30
+"4423","La Granja","Metropolitana",13111,2020-07-27,0.692307692307692,0.58531394111387,0.650393471291169,30
+"4424","La Pintana","Metropolitana",13112,2020-07-27,0.359712230215827,0.58531394111387,0.650393471291169,30
+"4425","La Reina","Metropolitana",13113,2020-07-27,0.416666666666667,0.58531394111387,0.650393471291169,30
+"4426","Lampa","Metropolitana",13302,2020-07-27,0.59375,0.58531394111387,0.650393471291169,30
+"4427","Las Condes","Metropolitana",13114,2020-07-27,0.557377049180328,0.58531394111387,0.650393471291169,30
+"4428","Lo Barnechea","Metropolitana",13115,2020-07-27,0.588235294117647,0.58531394111387,0.650393471291169,30
+"4429","Lo Espejo","Metropolitana",13116,2020-07-27,0.696969696969697,0.58531394111387,0.650393471291169,30
+"4430","Lo Prado","Metropolitana",13117,2020-07-27,0.571428571428571,0.58531394111387,0.650393471291169,30
+"4431","Macul","Metropolitana",13118,2020-07-27,0.75,0.58531394111387,0.650393471291169,30
+"4432","Maipu","Metropolitana",13119,2020-07-27,0.668965517241379,0.58531394111387,0.650393471291169,30
+"4433","Maria Pinto","Metropolitana",13504,2020-07-27,0.333333333333333,0.58531394111387,0.650393471291169,30
+"4434","Melipilla","Metropolitana",13501,2020-07-27,0.363636363636364,0.58531394111387,0.650393471291169,30
+"4435","Nunoa","Metropolitana",13120,2020-07-27,0.525,0.58531394111387,0.650393471291169,30
+"4436","Padre Hurtado","Metropolitana",13604,2020-07-27,0.615384615384615,0.58531394111387,0.650393471291169,30
+"4437","Paine","Metropolitana",13404,2020-07-27,0.684210526315789,0.58531394111387,0.650393471291169,30
+"4438","Pedro Aguirre Cerda","Metropolitana",13121,2020-07-27,0.717948717948718,0.58531394111387,0.650393471291169,30
+"4439","Penaflor","Metropolitana",13605,2020-07-27,0.583333333333333,0.58531394111387,0.650393471291169,30
+"4440","Penalolen","Metropolitana",13122,2020-07-27,0.742857142857143,0.58531394111387,0.650393471291169,30
+"4441","Pirque","Metropolitana",13202,2020-07-27,1,0.58531394111387,0.650393471291169,30
+"4442","Providencia","Metropolitana",13123,2020-07-27,0.681818181818182,0.58531394111387,0.650393471291169,30
+"4443","Pudahuel","Metropolitana",13124,2020-07-27,0.557142857142857,0.58531394111387,0.650393471291169,30
+"4444","Puente Alto","Metropolitana",13201,2020-07-27,0.515981735159817,0.58531394111387,0.650393471291169,30
+"4445","Quilicura","Metropolitana",13125,2020-07-27,0.568965517241379,0.58531394111387,0.650393471291169,30
+"4446","Quinta Normal","Metropolitana",13126,2020-07-27,0.596491228070175,0.58531394111387,0.650393471291169,30
+"4447","Recoleta","Metropolitana",13127,2020-07-27,0.683333333333333,0.58531394111387,0.650393471291169,30
+"4448","Renca","Metropolitana",13128,2020-07-27,0.505376344086022,0.58531394111387,0.650393471291169,30
+"4449","San Bernardo","Metropolitana",13401,2020-07-27,0.568345323741007,0.58531394111387,0.650393471291169,30
+"4450","San Joaquin","Metropolitana",13129,2020-07-27,0.694444444444444,0.58531394111387,0.650393471291169,30
+"4451","San Jose de Maipo","Metropolitana",13203,2020-07-27,0.65,0.58531394111387,0.650393471291169,30
+"4452","San Miguel","Metropolitana",13130,2020-07-27,0.511111111111111,0.58531394111387,0.650393471291169,30
+"4453","San Pedro","Metropolitana",13505,2020-07-27,0,0.58531394111387,0.650393471291169,30
+"4454","San Ramon","Metropolitana",13131,2020-07-27,0.575,0.58531394111387,0.650393471291169,30
+"4455","Santiago","Metropolitana",13101,2020-07-27,0.531914893617021,0.58531394111387,0.650393471291169,30
+"4456","Talagante","Metropolitana",13601,2020-07-27,0.605263157894737,0.58531394111387,0.650393471291169,30
+"4457","Tiltil","Metropolitana",13303,2020-07-27,0.714285714285714,0.58531394111387,0.650393471291169,30
+"4458","Vitacura","Metropolitana",13132,2020-07-27,0.294117647058824,0.58531394111387,0.650393471291169,30
+"4459","Desconocido Metropolitana","Metropolitana",0,2020-07-27,NA,0.58531394111387,0.650393471291169,30
+"4460","Chepica","O’Higgins",6302,2020-07-27,0.875,0.662420382165605,0.650393471291169,30
+"4461","Chimbarongo","O’Higgins",6303,2020-07-27,0.75,0.662420382165605,0.650393471291169,30
+"4462","Codegua","O’Higgins",6102,2020-07-27,1,0.662420382165605,0.650393471291169,30
+"4463","Coinco","O’Higgins",6103,2020-07-27,1,0.662420382165605,0.650393471291169,30
+"4464","Coltauco","O’Higgins",6104,2020-07-27,0.894736842105263,0.662420382165605,0.650393471291169,30
+"4465","Donihue","O’Higgins",6105,2020-07-27,0.714285714285714,0.662420382165605,0.650393471291169,30
+"4466","Graneros","O’Higgins",6106,2020-07-27,0.666666666666667,0.662420382165605,0.650393471291169,30
+"4467","La Estrella","O’Higgins",6202,2020-07-27,NA,0.662420382165605,0.650393471291169,30
+"4468","Las Cabras","O’Higgins",6107,2020-07-27,0,0.662420382165605,0.650393471291169,30
+"4469","Litueche","O’Higgins",6203,2020-07-27,1,0.662420382165605,0.650393471291169,30
+"4470","Lolol","O’Higgins",6304,2020-07-27,NA,0.662420382165605,0.650393471291169,30
+"4471","Machali","O’Higgins",6108,2020-07-27,0.692307692307692,0.662420382165605,0.650393471291169,30
+"4472","Malloa","O’Higgins",6109,2020-07-27,0.7,0.662420382165605,0.650393471291169,30
+"4473","Marchihue","O’Higgins",6204,2020-07-27,NA,0.662420382165605,0.650393471291169,30
+"4474","Mostazal","O’Higgins",6110,2020-07-27,0.75,0.662420382165605,0.650393471291169,30
+"4475","Nancagua","O’Higgins",6305,2020-07-27,0,0.662420382165605,0.650393471291169,30
+"4476","Navidad","O’Higgins",6205,2020-07-27,NA,0.662420382165605,0.650393471291169,30
+"4477","Olivar","O’Higgins",6111,2020-07-27,0.8,0.662420382165605,0.650393471291169,30
+"4478","Palmilla","O’Higgins",6306,2020-07-27,NA,0.662420382165605,0.650393471291169,30
+"4479","Paredones","O’Higgins",6206,2020-07-27,NA,0.662420382165605,0.650393471291169,30
+"4480","Peralillo","O’Higgins",6307,2020-07-27,NA,0.662420382165605,0.650393471291169,30
+"4481","Peumo","O’Higgins",6112,2020-07-27,0.5,0.662420382165605,0.650393471291169,30
+"4482","Pichidegua","O’Higgins",6113,2020-07-27,0.8,0.662420382165605,0.650393471291169,30
+"4483","Pichilemu","O’Higgins",6201,2020-07-27,NA,0.662420382165605,0.650393471291169,30
+"4484","Placilla","O’Higgins",6308,2020-07-27,1,0.662420382165605,0.650393471291169,30
+"4485","Pumanque","O’Higgins",6309,2020-07-27,NA,0.662420382165605,0.650393471291169,30
+"4486","Quinta de Tilcoco","O’Higgins",6114,2020-07-27,0.555555555555556,0.662420382165605,0.650393471291169,30
+"4487","Rancagua","O’Higgins",6101,2020-07-27,0.607594936708861,0.662420382165605,0.650393471291169,30
+"4488","Rengo","O’Higgins",6115,2020-07-27,0.520833333333333,0.662420382165605,0.650393471291169,30
+"4489","Requinoa","O’Higgins",6116,2020-07-27,0.818181818181818,0.662420382165605,0.650393471291169,30
+"4490","San Fernando","O’Higgins",6301,2020-07-27,0.666666666666667,0.662420382165605,0.650393471291169,30
+"4491","San Vicente","O’Higgins",6117,2020-07-27,0.5,0.662420382165605,0.650393471291169,30
+"4492","Santa Cruz","O’Higgins",6310,2020-07-27,0.777777777777778,0.662420382165605,0.650393471291169,30
+"4493","Desconocido O’Higgins","O’Higgins",0,2020-07-27,NA,0.662420382165605,0.650393471291169,30
+"4494","Alto Hospicio","Tarapacá",1107,2020-07-27,0.634146341463415,0.745283018867924,0.650393471291169,30
+"4495","Camina","Tarapacá",1402,2020-07-27,NA,0.745283018867924,0.650393471291169,30
+"4496","Colchane","Tarapacá",1403,2020-07-27,0.666666666666667,0.745283018867924,0.650393471291169,30
+"4497","Huara","Tarapacá",1404,2020-07-27,0.5,0.745283018867924,0.650393471291169,30
+"4498","Iquique","Tarapacá",1101,2020-07-27,0.786764705882353,0.745283018867924,0.650393471291169,30
+"4499","Pica","Tarapacá",1405,2020-07-27,0.888888888888889,0.745283018867924,0.650393471291169,30
+"4500","Pozo Almonte","Tarapacá",1401,2020-07-27,0.666666666666667,0.745283018867924,0.650393471291169,30
+"4501","Desconocido Tarapaca","Tarapacá",0,2020-07-27,NA,0.745283018867924,0.650393471291169,30
+"4502","Algarrobo","Valparaíso",5602,2020-07-27,NA,0.637404580152672,0.650393471291169,30
+"4503","Cabildo","Valparaíso",5402,2020-07-27,0.75,0.637404580152672,0.650393471291169,30
+"4504","Calera","Valparaíso",5502,2020-07-27,0.628571428571429,0.637404580152672,0.650393471291169,30
+"4505","Calle Larga","Valparaíso",5302,2020-07-27,0.714285714285714,0.637404580152672,0.650393471291169,30
+"4506","Cartagena","Valparaíso",5603,2020-07-27,0.5,0.637404580152672,0.650393471291169,30
+"4507","Casablanca","Valparaíso",5102,2020-07-27,0.545454545454545,0.637404580152672,0.650393471291169,30
+"4508","Catemu","Valparaíso",5702,2020-07-27,0.833333333333333,0.637404580152672,0.650393471291169,30
+"4509","Concon","Valparaíso",5103,2020-07-27,0,0.637404580152672,0.650393471291169,30
+"4510","El Quisco","Valparaíso",5604,2020-07-27,1,0.637404580152672,0.650393471291169,30
+"4511","El Tabo","Valparaíso",5605,2020-07-27,0.6,0.637404580152672,0.650393471291169,30
+"4512","Hijuelas","Valparaíso",5503,2020-07-27,0.285714285714286,0.637404580152672,0.650393471291169,30
+"4513","Isla de Pascua","Valparaíso",5201,2020-07-27,NA,0.637404580152672,0.650393471291169,30
+"4514","Juan Fernandez","Valparaíso",5104,2020-07-27,NA,0.637404580152672,0.650393471291169,30
+"4515","La Cruz","Valparaíso",5504,2020-07-27,0.75,0.637404580152672,0.650393471291169,30
+"4516","La Ligua","Valparaíso",5401,2020-07-27,0.538461538461538,0.637404580152672,0.650393471291169,30
+"4517","Limache","Valparaíso",5802,2020-07-27,0.6,0.637404580152672,0.650393471291169,30
+"4518","Llaillay","Valparaíso",5703,2020-07-27,0.5,0.637404580152672,0.650393471291169,30
+"4519","Los Andes","Valparaíso",5301,2020-07-27,1,0.637404580152672,0.650393471291169,30
+"4520","Nogales","Valparaíso",5506,2020-07-27,0.5,0.637404580152672,0.650393471291169,30
+"4521","Olmue","Valparaíso",5803,2020-07-27,0.888888888888889,0.637404580152672,0.650393471291169,30
+"4522","Panquehue","Valparaíso",5704,2020-07-27,0.625,0.637404580152672,0.650393471291169,30
+"4523","Papudo","Valparaíso",5403,2020-07-27,1,0.637404580152672,0.650393471291169,30
+"4524","Petorca","Valparaíso",5404,2020-07-27,0.285714285714286,0.637404580152672,0.650393471291169,30
+"4525","Puchuncavi","Valparaíso",5105,2020-07-27,0.4,0.637404580152672,0.650393471291169,30
+"4526","Putaendo","Valparaíso",5705,2020-07-27,1,0.637404580152672,0.650393471291169,30
+"4527","Quillota","Valparaíso",5501,2020-07-27,0.5,0.637404580152672,0.650393471291169,30
+"4528","Quilpue","Valparaíso",5801,2020-07-27,0.758620689655172,0.637404580152672,0.650393471291169,30
+"4529","Quintero","Valparaíso",5107,2020-07-27,0.444444444444444,0.637404580152672,0.650393471291169,30
+"4530","Rinconada","Valparaíso",5303,2020-07-27,0.166666666666667,0.637404580152672,0.650393471291169,30
+"4531","San Antonio","Valparaíso",5601,2020-07-27,0.586206896551724,0.637404580152672,0.650393471291169,30
+"4532","San Esteban","Valparaíso",5304,2020-07-27,1,0.637404580152672,0.650393471291169,30
+"4533","San Felipe","Valparaíso",5701,2020-07-27,0.8,0.637404580152672,0.650393471291169,30
+"4534","Santa Maria","Valparaíso",5706,2020-07-27,0.6,0.637404580152672,0.650393471291169,30
+"4535","Santo Domingo","Valparaíso",5606,2020-07-27,NA,0.637404580152672,0.650393471291169,30
+"4536","Valparaiso","Valparaíso",5101,2020-07-27,0.610526315789474,0.637404580152672,0.650393471291169,30
+"4537","Villa Alemana","Valparaíso",5804,2020-07-27,0.789473684210526,0.637404580152672,0.650393471291169,30
+"4538","Vina del Mar","Valparaíso",5109,2020-07-27,0.626865671641791,0.637404580152672,0.650393471291169,30
+"4539","Zapallar","Valparaíso",5405,2020-07-27,1,0.637404580152672,0.650393471291169,30
+"4540","Desconocido Valparaiso","Valparaíso",0,2020-07-27,NA,0.637404580152672,0.650393471291169,30
+"4541","Bulnes","Ñuble",16102,2020-07-27,0.785714285714286,0.83695652173913,0.650393471291169,30
+"4542","Chillan","Ñuble",16101,2020-07-27,0.931034482758621,0.83695652173913,0.650393471291169,30
+"4543","Chillan Viejo","Ñuble",16103,2020-07-27,NA,0.83695652173913,0.650393471291169,30
+"4544","Cobquecura","Ñuble",16202,2020-07-27,1,0.83695652173913,0.650393471291169,30
+"4545","Coelemu","Ñuble",16203,2020-07-27,1,0.83695652173913,0.650393471291169,30
+"4546","Coihueco","Ñuble",16302,2020-07-27,0.833333333333333,0.83695652173913,0.650393471291169,30
+"4547","El Carmen","Ñuble",16104,2020-07-27,1,0.83695652173913,0.650393471291169,30
+"4548","Ninhue","Ñuble",16204,2020-07-27,0.75,0.83695652173913,0.650393471291169,30
+"4549","Niquen","Ñuble",16303,2020-07-27,1,0.83695652173913,0.650393471291169,30
+"4550","Pemuco","Ñuble",16105,2020-07-27,NA,0.83695652173913,0.650393471291169,30
+"4551","Pinto","Ñuble",16106,2020-07-27,1,0.83695652173913,0.650393471291169,30
+"4552","Portezuelo","Ñuble",16205,2020-07-27,NA,0.83695652173913,0.650393471291169,30
+"4553","Quillon","Ñuble",16107,2020-07-27,0,0.83695652173913,0.650393471291169,30
+"4554","Quirihue","Ñuble",16201,2020-07-27,NA,0.83695652173913,0.650393471291169,30
+"4555","Ranquil","Ñuble",16206,2020-07-27,0.75,0.83695652173913,0.650393471291169,30
+"4556","San Carlos","Ñuble",16301,2020-07-27,0.444444444444444,0.83695652173913,0.650393471291169,30
+"4557","San Fabian","Ñuble",16304,2020-07-27,0,0.83695652173913,0.650393471291169,30
+"4558","San Ignacio","Ñuble",16108,2020-07-27,0.6,0.83695652173913,0.650393471291169,30
+"4559","San Nicolas","Ñuble",16305,2020-07-27,0.5,0.83695652173913,0.650393471291169,30
+"4560","Treguaco","Ñuble",16207,2020-07-27,NA,0.83695652173913,0.650393471291169,30
+"4561","Yungay","Ñuble",16109,2020-07-27,1,0.83695652173913,0.650393471291169,30
+"4562","Desconocido Nuble","Ñuble",0,2020-07-27,NA,0.83695652173913,0.650393471291169,30
+"4563","Algarrobo","Valparaíso",5602,2020-06-22,NA,NA,NA,25
+"4564","Alhue","Metropolitana",13502,2020-06-22,NA,NA,NA,25
+"4565","Alto Biobio","Biobío",8314,2020-06-22,NA,NA,NA,25
+"4566","Alto del Carmen","Atacama",3302,2020-06-22,NA,NA,NA,25
+"4567","Alto Hospicio","Tarapacá",1107,2020-06-22,NA,NA,NA,25
+"4568","Ancud","Los Lagos",10202,2020-06-22,NA,NA,NA,25
+"4569","Andacollo","Coquimbo",4103,2020-06-22,NA,NA,NA,25
+"4570","Angol","Araucanía",9201,2020-06-22,NA,NA,NA,25
+"4571","Antartica","Magallanes",12202,2020-06-22,NA,NA,NA,25
+"4572","Antofagasta","Antofagasta",2101,2020-06-22,NA,NA,NA,25
+"4573","Antuco","Biobío",8302,2020-06-22,NA,NA,NA,25
+"4574","Arauco","Biobío",8202,2020-06-22,NA,NA,NA,25
+"4575","Arica","Arica y Parinacota",15101,2020-06-22,NA,NA,NA,25
+"4576","Aysén","Aysén",11201,2020-06-22,NA,NA,NA,25
+"4577","Buin","Metropolitana",13402,2020-06-22,NA,NA,NA,25
+"4578","Bulnes","Ñuble",16102,2020-06-22,NA,NA,NA,25
+"4579","Cabildo","Valparaíso",5402,2020-06-22,NA,NA,NA,25
+"4580","Cabo de Hornos","Magallanes",12201,2020-06-22,NA,NA,NA,25
+"4581","Cabrero","Biobío",8303,2020-06-22,NA,NA,NA,25
+"4582","Calama","Antofagasta",2201,2020-06-22,NA,NA,NA,25
+"4583","Calbuco","Los Lagos",10102,2020-06-22,NA,NA,NA,25
+"4584","Caldera","Atacama",3102,2020-06-22,NA,NA,NA,25
+"4585","Calera","Valparaíso",5502,2020-06-22,NA,NA,NA,25
+"4586","Calera de Tango","Metropolitana",13403,2020-06-22,NA,NA,NA,25
+"4587","Calle Larga","Valparaíso",5302,2020-06-22,NA,NA,NA,25
+"4588","Camarones","Arica y Parinacota",15102,2020-06-22,NA,NA,NA,25
+"4589","Camina","Tarapacá",1402,2020-06-22,NA,NA,NA,25
+"4590","Canela","Coquimbo",4202,2020-06-22,NA,NA,NA,25
+"4591","Canete","Biobío",8203,2020-06-22,NA,NA,NA,25
+"4592","Carahue","Araucanía",9102,2020-06-22,NA,NA,NA,25
+"4593","Cartagena","Valparaíso",5603,2020-06-22,NA,NA,NA,25
+"4594","Casablanca","Valparaíso",5102,2020-06-22,NA,NA,NA,25
+"4595","Castro","Los Lagos",10201,2020-06-22,NA,NA,NA,25
+"4596","Catemu","Valparaíso",5702,2020-06-22,NA,NA,NA,25
+"4597","Cauquenes","Maule",7201,2020-06-22,NA,NA,NA,25
+"4598","Cerrillos","Metropolitana",13102,2020-06-22,NA,NA,NA,25
+"4599","Cerro Navia","Metropolitana",13103,2020-06-22,NA,NA,NA,25
+"4600","Chaiten","Los Lagos",10401,2020-06-22,NA,NA,NA,25
+"4601","Chanaral","Atacama",3201,2020-06-22,NA,NA,NA,25
+"4602","Chanco","Maule",7202,2020-06-22,NA,NA,NA,25
+"4603","Chepica","O’Higgins",6302,2020-06-22,NA,NA,NA,25
+"4604","Chiguayante","Biobío",8103,2020-06-22,NA,NA,NA,25
+"4605","Chile Chico","Aysén",11401,2020-06-22,NA,NA,NA,25
+"4606","Chillan","Ñuble",16101,2020-06-22,NA,NA,NA,25
+"4607","Chillan Viejo","Ñuble",16103,2020-06-22,NA,NA,NA,25
+"4608","Chimbarongo","O’Higgins",6303,2020-06-22,NA,NA,NA,25
+"4609","Cholchol","Araucanía",9121,2020-06-22,NA,NA,NA,25
+"4610","Chonchi","Los Lagos",10203,2020-06-22,NA,NA,NA,25
+"4611","Cisnes","Aysén",11202,2020-06-22,NA,NA,NA,25
+"4612","Cobquecura","Ñuble",16202,2020-06-22,NA,NA,NA,25
+"4613","Cochamo","Los Lagos",10103,2020-06-22,NA,NA,NA,25
+"4614","Cochrane","Aysén",11301,2020-06-22,NA,NA,NA,25
+"4615","Codegua","O’Higgins",6102,2020-06-22,NA,NA,NA,25
+"4616","Coelemu","Ñuble",16203,2020-06-22,NA,NA,NA,25
+"4617","Coihueco","Ñuble",16302,2020-06-22,NA,NA,NA,25
+"4618","Coinco","O’Higgins",6103,2020-06-22,NA,NA,NA,25
+"4619","Colbun","Maule",7402,2020-06-22,NA,NA,NA,25
+"4620","Colchane","Tarapacá",1403,2020-06-22,NA,NA,NA,25
+"4621","Colina","Metropolitana",13301,2020-06-22,NA,NA,NA,25
+"4622","Collipulli","Araucanía",9202,2020-06-22,NA,NA,NA,25
+"4623","Coltauco","O’Higgins",6104,2020-06-22,NA,NA,NA,25
+"4624","Combarbala","Coquimbo",4302,2020-06-22,NA,NA,NA,25
+"4625","Concepcion","Biobío",8101,2020-06-22,NA,NA,NA,25
+"4626","Conchali","Metropolitana",13104,2020-06-22,NA,NA,NA,25
+"4627","Concon","Valparaíso",5103,2020-06-22,NA,NA,NA,25
+"4628","Constitucion","Maule",7102,2020-06-22,NA,NA,NA,25
+"4629","Contulmo","Biobío",8204,2020-06-22,NA,NA,NA,25
+"4630","Copiapo","Atacama",3101,2020-06-22,NA,NA,NA,25
+"4631","Coquimbo","Coquimbo",4102,2020-06-22,NA,NA,NA,25
+"4632","Coronel","Biobío",8102,2020-06-22,NA,NA,NA,25
+"4633","Corral","Los Ríos",14102,2020-06-22,NA,NA,NA,25
+"4634","Coyhaique","Aysén",11101,2020-06-22,NA,NA,NA,25
+"4635","Cunco","Araucanía",9103,2020-06-22,NA,NA,NA,25
+"4636","Curacautin","Araucanía",9203,2020-06-22,NA,NA,NA,25
+"4637","Curacavi","Metropolitana",13503,2020-06-22,NA,NA,NA,25
+"4638","Curaco de Velez","Los Lagos",10204,2020-06-22,NA,NA,NA,25
+"4639","Curanilahue","Biobío",8205,2020-06-22,NA,NA,NA,25
+"4640","Curarrehue","Araucanía",9104,2020-06-22,NA,NA,NA,25
+"4641","Curepto","Maule",7103,2020-06-22,NA,NA,NA,25
+"4642","Curico","Maule",7301,2020-06-22,NA,NA,NA,25
+"4643","Dalcahue","Los Lagos",10205,2020-06-22,NA,NA,NA,25
+"4644","Desconocido Antofagasta","Antofagasta",0,2020-06-22,NA,NA,NA,25
+"4645","Desconocido Araucania","Araucanía",0,2020-06-22,NA,NA,NA,25
+"4646","Desconocido Arica y Parinacota","Arica y Parinacota",0,2020-06-22,NA,NA,NA,25
+"4647","Desconocido Atacama","Atacama",0,2020-06-22,NA,NA,NA,25
+"4648","Desconocido Aysen","Aysén",0,2020-06-22,NA,NA,NA,25
+"4649","Desconocido Biobio","Biobío",0,2020-06-22,NA,NA,NA,25
+"4650","Desconocido Coquimbo","Coquimbo",0,2020-06-22,NA,NA,NA,25
+"4651","Desconocido Los Lagos","Los Lagos",0,2020-06-22,NA,NA,NA,25
+"4652","Desconocido Los Rios","Los Ríos",0,2020-06-22,NA,NA,NA,25
+"4653","Desconocido Magallanes","Magallanes",0,2020-06-22,NA,NA,NA,25
+"4654","Desconocido Maule","Maule",0,2020-06-22,NA,NA,NA,25
+"4655","Desconocido Metropolitana","Metropolitana",0,2020-06-22,NA,NA,NA,25
+"4656","Desconocido Nuble","Ñuble",0,2020-06-22,NA,NA,NA,25
+"4657","Desconocido O’Higgins","O’Higgins",0,2020-06-22,NA,NA,NA,25
+"4658","Desconocido Tarapaca","Tarapacá",0,2020-06-22,NA,NA,NA,25
+"4659","Desconocido Valparaiso","Valparaíso",0,2020-06-22,NA,NA,NA,25
+"4660","Diego de Almagro","Atacama",3202,2020-06-22,NA,NA,NA,25
+"4661","Donihue","O’Higgins",6105,2020-06-22,NA,NA,NA,25
+"4662","El Bosque","Metropolitana",13105,2020-06-22,NA,NA,NA,25
+"4663","El Carmen","Ñuble",16104,2020-06-22,NA,NA,NA,25
+"4664","El Monte","Metropolitana",13602,2020-06-22,NA,NA,NA,25
+"4665","El Quisco","Valparaíso",5604,2020-06-22,NA,NA,NA,25
+"4666","El Tabo","Valparaíso",5605,2020-06-22,NA,NA,NA,25
+"4667","Empedrado","Maule",7104,2020-06-22,NA,NA,NA,25
+"4668","Ercilla","Araucanía",9204,2020-06-22,NA,NA,NA,25
+"4669","Estacion Central","Metropolitana",13106,2020-06-22,NA,NA,NA,25
+"4670","Florida","Biobío",8104,2020-06-22,NA,NA,NA,25
+"4671","Freire","Araucanía",9105,2020-06-22,NA,NA,NA,25
+"4672","Freirina","Atacama",3303,2020-06-22,NA,NA,NA,25
+"4673","Fresia","Los Lagos",10104,2020-06-22,NA,NA,NA,25
+"4674","Frutillar","Los Lagos",10105,2020-06-22,NA,NA,NA,25
+"4675","Futaleufu","Los Lagos",10402,2020-06-22,NA,NA,NA,25
+"4676","Futrono","Los Ríos",14202,2020-06-22,NA,NA,NA,25
+"4677","Galvarino","Araucanía",9106,2020-06-22,NA,NA,NA,25
+"4678","General Lagos","Arica y Parinacota",15202,2020-06-22,NA,NA,NA,25
+"4679","Gorbea","Araucanía",9107,2020-06-22,NA,NA,NA,25
+"4680","Graneros","O’Higgins",6106,2020-06-22,NA,NA,NA,25
+"4681","Guaitecas","Aysén",11203,2020-06-22,NA,NA,NA,25
+"4682","Hijuelas","Valparaíso",5503,2020-06-22,NA,NA,NA,25
+"4683","Hualaihue","Los Lagos",10403,2020-06-22,NA,NA,NA,25
+"4684","Hualane","Maule",7302,2020-06-22,NA,NA,NA,25
+"4685","Hualpen","Biobío",8112,2020-06-22,NA,NA,NA,25
+"4686","Hualqui","Biobío",8105,2020-06-22,NA,NA,NA,25
+"4687","Huara","Tarapacá",1404,2020-06-22,NA,NA,NA,25
+"4688","Huasco","Atacama",3304,2020-06-22,NA,NA,NA,25
+"4689","Huechuraba","Metropolitana",13107,2020-06-22,NA,NA,NA,25
+"4690","Illapel","Coquimbo",4201,2020-06-22,NA,NA,NA,25
+"4691","Independencia","Metropolitana",13108,2020-06-22,NA,NA,NA,25
+"4692","Iquique","Tarapacá",1101,2020-06-22,NA,NA,NA,25
+"4693","Isla de Maipo","Metropolitana",13603,2020-06-22,NA,NA,NA,25
+"4694","Isla de Pascua","Valparaíso",5201,2020-06-22,NA,NA,NA,25
+"4695","Juan Fernandez","Valparaíso",5104,2020-06-22,NA,NA,NA,25
+"4696","La Cisterna","Metropolitana",13109,2020-06-22,NA,NA,NA,25
+"4697","La Cruz","Valparaíso",5504,2020-06-22,NA,NA,NA,25
+"4698","La Estrella","O’Higgins",6202,2020-06-22,NA,NA,NA,25
+"4699","La Florida","Metropolitana",13110,2020-06-22,NA,NA,NA,25
+"4700","La Granja","Metropolitana",13111,2020-06-22,NA,NA,NA,25
+"4701","La Higuera","Coquimbo",4104,2020-06-22,NA,NA,NA,25
+"4702","La Ligua","Valparaíso",5401,2020-06-22,NA,NA,NA,25
+"4703","La Pintana","Metropolitana",13112,2020-06-22,NA,NA,NA,25
+"4704","La Reina","Metropolitana",13113,2020-06-22,NA,NA,NA,25
+"4705","La Serena","Coquimbo",4101,2020-06-22,NA,NA,NA,25
+"4706","La Union","Los Ríos",14201,2020-06-22,NA,NA,NA,25
+"4707","Lago Ranco","Los Ríos",14203,2020-06-22,NA,NA,NA,25
+"4708","Lago Verde","Aysén",11102,2020-06-22,NA,NA,NA,25
+"4709","Laguna Blanca","Magallanes",12102,2020-06-22,NA,NA,NA,25
+"4710","Laja","Biobío",8304,2020-06-22,NA,NA,NA,25
+"4711","Lampa","Metropolitana",13302,2020-06-22,NA,NA,NA,25
+"4712","Lanco","Los Ríos",14103,2020-06-22,NA,NA,NA,25
+"4713","Las Cabras","O’Higgins",6107,2020-06-22,NA,NA,NA,25
+"4714","Las Condes","Metropolitana",13114,2020-06-22,NA,NA,NA,25
+"4715","Lautaro","Araucanía",9108,2020-06-22,NA,NA,NA,25
+"4716","Lebu","Biobío",8201,2020-06-22,NA,NA,NA,25
+"4717","Licanten","Maule",7303,2020-06-22,NA,NA,NA,25
+"4718","Limache","Valparaíso",5802,2020-06-22,NA,NA,NA,25
+"4719","Linares","Maule",7401,2020-06-22,NA,NA,NA,25
+"4720","Litueche","O’Higgins",6203,2020-06-22,NA,NA,NA,25
+"4721","Llaillay","Valparaíso",5703,2020-06-22,NA,NA,NA,25
+"4722","Llanquihue","Los Lagos",10107,2020-06-22,NA,NA,NA,25
+"4723","Lo Barnechea","Metropolitana",13115,2020-06-22,NA,NA,NA,25
+"4724","Lo Espejo","Metropolitana",13116,2020-06-22,NA,NA,NA,25
+"4725","Lo Prado","Metropolitana",13117,2020-06-22,NA,NA,NA,25
+"4726","Lolol","O’Higgins",6304,2020-06-22,NA,NA,NA,25
+"4727","Loncoche","Araucanía",9109,2020-06-22,NA,NA,NA,25
+"4728","Longavi","Maule",7403,2020-06-22,NA,NA,NA,25
+"4729","Lonquimay","Araucanía",9205,2020-06-22,NA,NA,NA,25
+"4730","Los Alamos","Biobío",8206,2020-06-22,NA,NA,NA,25
+"4731","Los Andes","Valparaíso",5301,2020-06-22,NA,NA,NA,25
+"4732","Los Angeles","Biobío",8301,2020-06-22,NA,NA,NA,25
+"4733","Los Lagos","Los Ríos",14104,2020-06-22,NA,NA,NA,25
+"4734","Los Muermos","Los Lagos",10106,2020-06-22,NA,NA,NA,25
+"4735","Los Sauces","Araucanía",9206,2020-06-22,NA,NA,NA,25
+"4736","Los Vilos","Coquimbo",4203,2020-06-22,NA,NA,NA,25
+"4737","Lota","Biobío",8106,2020-06-22,NA,NA,NA,25
+"4738","Lumaco","Araucanía",9207,2020-06-22,NA,NA,NA,25
+"4739","Machali","O’Higgins",6108,2020-06-22,NA,NA,NA,25
+"4740","Macul","Metropolitana",13118,2020-06-22,NA,NA,NA,25
+"4741","Mafil","Los Ríos",14105,2020-06-22,NA,NA,NA,25
+"4742","Maipu","Metropolitana",13119,2020-06-22,NA,NA,NA,25
+"4743","Malloa","O’Higgins",6109,2020-06-22,NA,NA,NA,25
+"4744","Marchihue","O’Higgins",6204,2020-06-22,NA,NA,NA,25
+"4745","Maria Elena","Antofagasta",2302,2020-06-22,NA,NA,NA,25
+"4746","Maria Pinto","Metropolitana",13504,2020-06-22,NA,NA,NA,25
+"4747","Mariquina","Los Ríos",14106,2020-06-22,NA,NA,NA,25
+"4748","Maule","Maule",7105,2020-06-22,NA,NA,NA,25
+"4749","Maullin","Los Lagos",10108,2020-06-22,NA,NA,NA,25
+"4750","Mejillones","Antofagasta",2102,2020-06-22,NA,NA,NA,25
+"4751","Melipeuco","Araucanía",9110,2020-06-22,NA,NA,NA,25
+"4752","Melipilla","Metropolitana",13501,2020-06-22,NA,NA,NA,25
+"4753","Molina","Maule",7304,2020-06-22,NA,NA,NA,25
+"4754","Monte Patria","Coquimbo",4303,2020-06-22,NA,NA,NA,25
+"4755","Mostazal","O’Higgins",6110,2020-06-22,NA,NA,NA,25
+"4756","Mulchen","Biobío",8305,2020-06-22,NA,NA,NA,25
+"4757","Nacimiento","Biobío",8306,2020-06-22,NA,NA,NA,25
+"4758","Nancagua","O’Higgins",6305,2020-06-22,NA,NA,NA,25
+"4759","Natales","Magallanes",12401,2020-06-22,NA,NA,NA,25
+"4760","Navidad","O’Higgins",6205,2020-06-22,NA,NA,NA,25
+"4761","Negrete","Biobío",8307,2020-06-22,NA,NA,NA,25
+"4762","Ninhue","Ñuble",16204,2020-06-22,NA,NA,NA,25
+"4763","Niquen","Ñuble",16303,2020-06-22,NA,NA,NA,25
+"4764","Nogales","Valparaíso",5506,2020-06-22,NA,NA,NA,25
+"4765","Nueva Imperial","Araucanía",9111,2020-06-22,NA,NA,NA,25
+"4766","Nunoa","Metropolitana",13120,2020-06-22,NA,NA,NA,25
+"4767","OHiggins","Aysén",11302,2020-06-22,NA,NA,NA,25
+"4768","Olivar","O’Higgins",6111,2020-06-22,NA,NA,NA,25
+"4769","Ollague","Antofagasta",2202,2020-06-22,NA,NA,NA,25
+"4770","Olmue","Valparaíso",5803,2020-06-22,NA,NA,NA,25
+"4771","Osorno","Los Lagos",10301,2020-06-22,NA,NA,NA,25
+"4772","Ovalle","Coquimbo",4301,2020-06-22,NA,NA,NA,25
+"4773","Padre Hurtado","Metropolitana",13604,2020-06-22,NA,NA,NA,25
+"4774","Padre Las Casas","Araucanía",9112,2020-06-22,NA,NA,NA,25
+"4775","Paiguano","Coquimbo",4105,2020-06-22,NA,NA,NA,25
+"4776","Paillaco","Los Ríos",14107,2020-06-22,NA,NA,NA,25
+"4777","Paine","Metropolitana",13404,2020-06-22,NA,NA,NA,25
+"4778","Palena","Los Lagos",10404,2020-06-22,NA,NA,NA,25
+"4779","Palmilla","O’Higgins",6306,2020-06-22,NA,NA,NA,25
+"4780","Panguipulli","Los Ríos",14108,2020-06-22,NA,NA,NA,25
+"4781","Panquehue","Valparaíso",5704,2020-06-22,NA,NA,NA,25
+"4782","Papudo","Valparaíso",5403,2020-06-22,NA,NA,NA,25
+"4783","Paredones","O’Higgins",6206,2020-06-22,NA,NA,NA,25
+"4784","Parral","Maule",7404,2020-06-22,NA,NA,NA,25
+"4785","Pedro Aguirre Cerda","Metropolitana",13121,2020-06-22,NA,NA,NA,25
+"4786","Pelarco","Maule",7106,2020-06-22,NA,NA,NA,25
+"4787","Pelluhue","Maule",7203,2020-06-22,NA,NA,NA,25
+"4788","Pemuco","Ñuble",16105,2020-06-22,NA,NA,NA,25
+"4789","Penaflor","Metropolitana",13605,2020-06-22,NA,NA,NA,25
+"4790","Penalolen","Metropolitana",13122,2020-06-22,NA,NA,NA,25
+"4791","Pencahue","Maule",7107,2020-06-22,NA,NA,NA,25
+"4792","Penco","Biobío",8107,2020-06-22,NA,NA,NA,25
+"4793","Peralillo","O’Higgins",6307,2020-06-22,NA,NA,NA,25
+"4794","Perquenco","Araucanía",9113,2020-06-22,NA,NA,NA,25
+"4795","Petorca","Valparaíso",5404,2020-06-22,NA,NA,NA,25
+"4796","Peumo","O’Higgins",6112,2020-06-22,NA,NA,NA,25
+"4797","Pica","Tarapacá",1405,2020-06-22,NA,NA,NA,25
+"4798","Pichidegua","O’Higgins",6113,2020-06-22,NA,NA,NA,25
+"4799","Pichilemu","O’Higgins",6201,2020-06-22,NA,NA,NA,25
+"4800","Pinto","Ñuble",16106,2020-06-22,NA,NA,NA,25
+"4801","Pirque","Metropolitana",13202,2020-06-22,NA,NA,NA,25
+"4802","Pitrufquen","Araucanía",9114,2020-06-22,NA,NA,NA,25
+"4803","Placilla","O’Higgins",6308,2020-06-22,NA,NA,NA,25
+"4804","Portezuelo","Ñuble",16205,2020-06-22,NA,NA,NA,25
+"4805","Porvenir","Magallanes",12301,2020-06-22,NA,NA,NA,25
+"4806","Pozo Almonte","Tarapacá",1401,2020-06-22,NA,NA,NA,25
+"4807","Primavera","Magallanes",12302,2020-06-22,NA,NA,NA,25
+"4808","Providencia","Metropolitana",13123,2020-06-22,NA,NA,NA,25
+"4809","Puchuncavi","Valparaíso",5105,2020-06-22,NA,NA,NA,25
+"4810","Pucon","Araucanía",9115,2020-06-22,NA,NA,NA,25
+"4811","Pudahuel","Metropolitana",13124,2020-06-22,NA,NA,NA,25
+"4812","Puente Alto","Metropolitana",13201,2020-06-22,NA,NA,NA,25
+"4813","Puerto Montt","Los Lagos",10101,2020-06-22,NA,NA,NA,25
+"4814","Puerto Octay","Los Lagos",10302,2020-06-22,NA,NA,NA,25
+"4815","Puerto Varas","Los Lagos",10109,2020-06-22,NA,NA,NA,25
+"4816","Pumanque","O’Higgins",6309,2020-06-22,NA,NA,NA,25
+"4817","Punitaqui","Coquimbo",4304,2020-06-22,NA,NA,NA,25
+"4818","Punta Arenas","Magallanes",12101,2020-06-22,NA,NA,NA,25
+"4819","Puqueldon","Los Lagos",10206,2020-06-22,NA,NA,NA,25
+"4820","Puren","Araucanía",9208,2020-06-22,NA,NA,NA,25
+"4821","Purranque","Los Lagos",10303,2020-06-22,NA,NA,NA,25
+"4822","Putaendo","Valparaíso",5705,2020-06-22,NA,NA,NA,25
+"4823","Putre","Arica y Parinacota",15201,2020-06-22,NA,NA,NA,25
+"4824","Puyehue","Los Lagos",10304,2020-06-22,NA,NA,NA,25
+"4825","Queilen","Los Lagos",10207,2020-06-22,NA,NA,NA,25
+"4826","Quellon","Los Lagos",10208,2020-06-22,NA,NA,NA,25
+"4827","Quemchi","Los Lagos",10209,2020-06-22,NA,NA,NA,25
+"4828","Quilaco","Biobío",8308,2020-06-22,NA,NA,NA,25
+"4829","Quilicura","Metropolitana",13125,2020-06-22,NA,NA,NA,25
+"4830","Quilleco","Biobío",8309,2020-06-22,NA,NA,NA,25
+"4831","Quillon","Ñuble",16107,2020-06-22,NA,NA,NA,25
+"4832","Quillota","Valparaíso",5501,2020-06-22,NA,NA,NA,25
+"4833","Quilpue","Valparaíso",5801,2020-06-22,NA,NA,NA,25
+"4834","Quinchao","Los Lagos",10210,2020-06-22,NA,NA,NA,25
+"4835","Quinta de Tilcoco","O’Higgins",6114,2020-06-22,NA,NA,NA,25
+"4836","Quinta Normal","Metropolitana",13126,2020-06-22,NA,NA,NA,25
+"4837","Quintero","Valparaíso",5107,2020-06-22,NA,NA,NA,25
+"4838","Quirihue","Ñuble",16201,2020-06-22,NA,NA,NA,25
+"4839","Rancagua","O’Higgins",6101,2020-06-22,NA,NA,NA,25
+"4840","Ranquil","Ñuble",16206,2020-06-22,NA,NA,NA,25
+"4841","Rauco","Maule",7305,2020-06-22,NA,NA,NA,25
+"4842","Recoleta","Metropolitana",13127,2020-06-22,NA,NA,NA,25
+"4843","Renaico","Araucanía",9209,2020-06-22,NA,NA,NA,25
+"4844","Renca","Metropolitana",13128,2020-06-22,NA,NA,NA,25
+"4845","Rengo","O’Higgins",6115,2020-06-22,NA,NA,NA,25
+"4846","Requinoa","O’Higgins",6116,2020-06-22,NA,NA,NA,25
+"4847","Retiro","Maule",7405,2020-06-22,NA,NA,NA,25
+"4848","Rinconada","Valparaíso",5303,2020-06-22,NA,NA,NA,25
+"4849","Rio Bueno","Los Ríos",14204,2020-06-22,NA,NA,NA,25
+"4850","Rio Claro","Maule",7108,2020-06-22,NA,NA,NA,25
+"4851","Rio Hurtado","Coquimbo",4305,2020-06-22,NA,NA,NA,25
+"4852","Rio Ibanez","Aysén",11402,2020-06-22,NA,NA,NA,25
+"4853","Rio Negro","Los Lagos",10305,2020-06-22,NA,NA,NA,25
+"4854","Rio Verde","Magallanes",12103,2020-06-22,NA,NA,NA,25
+"4855","Romeral","Maule",7306,2020-06-22,NA,NA,NA,25
+"4856","Saavedra","Araucanía",9116,2020-06-22,NA,NA,NA,25
+"4857","Sagrada Familia","Maule",7307,2020-06-22,NA,NA,NA,25
+"4858","Salamanca","Coquimbo",4204,2020-06-22,NA,NA,NA,25
+"4859","San Antonio","Valparaíso",5601,2020-06-22,NA,NA,NA,25
+"4860","San Bernardo","Metropolitana",13401,2020-06-22,NA,NA,NA,25
+"4861","San Carlos","Ñuble",16301,2020-06-22,NA,NA,NA,25
+"4862","San Clemente","Maule",7109,2020-06-22,NA,NA,NA,25
+"4863","San Esteban","Valparaíso",5304,2020-06-22,NA,NA,NA,25
+"4864","San Fabian","Ñuble",16304,2020-06-22,NA,NA,NA,25
+"4865","San Felipe","Valparaíso",5701,2020-06-22,NA,NA,NA,25
+"4866","San Fernando","O’Higgins",6301,2020-06-22,NA,NA,NA,25
+"4867","San Gregorio","Magallanes",12104,2020-06-22,NA,NA,NA,25
+"4868","San Ignacio","Ñuble",16108,2020-06-22,NA,NA,NA,25
+"4869","San Javier","Maule",7406,2020-06-22,NA,NA,NA,25
+"4870","San Joaquin","Metropolitana",13129,2020-06-22,NA,NA,NA,25
+"4871","San Jose de Maipo","Metropolitana",13203,2020-06-22,NA,NA,NA,25
+"4872","San Juan de la Costa","Los Lagos",10306,2020-06-22,NA,NA,NA,25
+"4873","San Miguel","Metropolitana",13130,2020-06-22,NA,NA,NA,25
+"4874","San Nicolas","Ñuble",16305,2020-06-22,NA,NA,NA,25
+"4875","San Pablo","Los Lagos",10307,2020-06-22,NA,NA,NA,25
+"4876","San Pedro","Metropolitana",13505,2020-06-22,NA,NA,NA,25
+"4877","San Pedro de Atacama","Antofagasta",2203,2020-06-22,NA,NA,NA,25
+"4878","San Pedro de la Paz","Biobío",8108,2020-06-22,NA,NA,NA,25
+"4879","San Rafael","Maule",7110,2020-06-22,NA,NA,NA,25
+"4880","San Ramon","Metropolitana",13131,2020-06-22,NA,NA,NA,25
+"4881","San Rosendo","Biobío",8310,2020-06-22,NA,NA,NA,25
+"4882","San Vicente","O’Higgins",6117,2020-06-22,NA,NA,NA,25
+"4883","Santa Barbara","Biobío",8311,2020-06-22,NA,NA,NA,25
+"4884","Santa Cruz","O’Higgins",6310,2020-06-22,NA,NA,NA,25
+"4885","Santa Juana","Biobío",8109,2020-06-22,NA,NA,NA,25
+"4886","Santa Maria","Valparaíso",5706,2020-06-22,NA,NA,NA,25
+"4887","Santiago","Metropolitana",13101,2020-06-22,NA,NA,NA,25
+"4888","Santo Domingo","Valparaíso",5606,2020-06-22,NA,NA,NA,25
+"4889","Sierra Gorda","Antofagasta",2103,2020-06-22,NA,NA,NA,25
+"4890","Talagante","Metropolitana",13601,2020-06-22,NA,NA,NA,25
+"4891","Talca","Maule",7101,2020-06-22,NA,NA,NA,25
+"4892","Talcahuano","Biobío",8110,2020-06-22,NA,NA,NA,25
+"4893","Taltal","Antofagasta",2104,2020-06-22,NA,NA,NA,25
+"4894","Temuco","Araucanía",9101,2020-06-22,NA,NA,NA,25
+"4895","Teno","Maule",7308,2020-06-22,NA,NA,NA,25
+"4896","Teodoro Schmidt","Araucanía",9117,2020-06-22,NA,NA,NA,25
+"4897","Tierra Amarilla","Atacama",3103,2020-06-22,NA,NA,NA,25
+"4898","Tiltil","Metropolitana",13303,2020-06-22,NA,NA,NA,25
+"4899","Timaukel","Magallanes",12303,2020-06-22,NA,NA,NA,25
+"4900","Tirua","Biobío",8207,2020-06-22,NA,NA,NA,25
+"4901","Tocopilla","Antofagasta",2301,2020-06-22,NA,NA,NA,25
+"4902","Tolten","Araucanía",9118,2020-06-22,NA,NA,NA,25
+"4903","Tome","Biobío",8111,2020-06-22,NA,NA,NA,25
+"4904","Torres del Paine","Magallanes",12402,2020-06-22,NA,NA,NA,25
+"4905","Tortel","Aysén",11303,2020-06-22,NA,NA,NA,25
+"4906","Traiguen","Araucanía",9210,2020-06-22,NA,NA,NA,25
+"4907","Treguaco","Ñuble",16207,2020-06-22,NA,NA,NA,25
+"4908","Tucapel","Biobío",8312,2020-06-22,NA,NA,NA,25
+"4909","Valdivia","Los Ríos",14101,2020-06-22,NA,NA,NA,25
+"4910","Vallenar","Atacama",3301,2020-06-22,NA,NA,NA,25
+"4911","Valparaiso","Valparaíso",5101,2020-06-22,NA,NA,NA,25
+"4912","Vichuquen","Maule",7309,2020-06-22,NA,NA,NA,25
+"4913","Victoria","Araucanía",9211,2020-06-22,NA,NA,NA,25
+"4914","Vicuna","Coquimbo",4106,2020-06-22,NA,NA,NA,25
+"4915","Vilcun","Araucanía",9119,2020-06-22,NA,NA,NA,25
+"4916","Villa Alegre","Maule",7407,2020-06-22,NA,NA,NA,25
+"4917","Villa Alemana","Valparaíso",5804,2020-06-22,NA,NA,NA,25
+"4918","Villarrica","Araucanía",9120,2020-06-22,NA,NA,NA,25
+"4919","Vina del Mar","Valparaíso",5109,2020-06-22,NA,NA,NA,25
+"4920","Vitacura","Metropolitana",13132,2020-06-22,NA,NA,NA,25
+"4921","Yerbas Buenas","Maule",7408,2020-06-22,NA,NA,NA,25
+"4922","Yumbel","Biobío",8313,2020-06-22,NA,NA,NA,25
+"4923","Yungay","Ñuble",16109,2020-06-22,NA,NA,NA,25
+"4924","Zapallar","Valparaíso",5405,2020-06-22,NA,NA,NA,25
+"4925","Algarrobo","Valparaíso",5602,2020-06-29,NA,NA,NA,26
+"4926","Alhue","Metropolitana",13502,2020-06-29,NA,NA,NA,26
+"4927","Alto Biobio","Biobío",8314,2020-06-29,NA,NA,NA,26
+"4928","Alto del Carmen","Atacama",3302,2020-06-29,NA,NA,NA,26
+"4929","Alto Hospicio","Tarapacá",1107,2020-06-29,NA,NA,NA,26
+"4930","Ancud","Los Lagos",10202,2020-06-29,NA,NA,NA,26
+"4931","Andacollo","Coquimbo",4103,2020-06-29,NA,NA,NA,26
+"4932","Angol","Araucanía",9201,2020-06-29,NA,NA,NA,26
+"4933","Antartica","Magallanes",12202,2020-06-29,NA,NA,NA,26
+"4934","Antofagasta","Antofagasta",2101,2020-06-29,NA,NA,NA,26
+"4935","Antuco","Biobío",8302,2020-06-29,NA,NA,NA,26
+"4936","Arauco","Biobío",8202,2020-06-29,NA,NA,NA,26
+"4937","Arica","Arica y Parinacota",15101,2020-06-29,NA,NA,NA,26
+"4938","Aysén","Aysén",11201,2020-06-29,NA,NA,NA,26
+"4939","Buin","Metropolitana",13402,2020-06-29,NA,NA,NA,26
+"4940","Bulnes","Ñuble",16102,2020-06-29,NA,NA,NA,26
+"4941","Cabildo","Valparaíso",5402,2020-06-29,NA,NA,NA,26
+"4942","Cabo de Hornos","Magallanes",12201,2020-06-29,NA,NA,NA,26
+"4943","Cabrero","Biobío",8303,2020-06-29,NA,NA,NA,26
+"4944","Calama","Antofagasta",2201,2020-06-29,NA,NA,NA,26
+"4945","Calbuco","Los Lagos",10102,2020-06-29,NA,NA,NA,26
+"4946","Caldera","Atacama",3102,2020-06-29,NA,NA,NA,26
+"4947","Calera","Valparaíso",5502,2020-06-29,NA,NA,NA,26
+"4948","Calera de Tango","Metropolitana",13403,2020-06-29,NA,NA,NA,26
+"4949","Calle Larga","Valparaíso",5302,2020-06-29,NA,NA,NA,26
+"4950","Camarones","Arica y Parinacota",15102,2020-06-29,NA,NA,NA,26
+"4951","Camina","Tarapacá",1402,2020-06-29,NA,NA,NA,26
+"4952","Canela","Coquimbo",4202,2020-06-29,NA,NA,NA,26
+"4953","Canete","Biobío",8203,2020-06-29,NA,NA,NA,26
+"4954","Carahue","Araucanía",9102,2020-06-29,NA,NA,NA,26
+"4955","Cartagena","Valparaíso",5603,2020-06-29,NA,NA,NA,26
+"4956","Casablanca","Valparaíso",5102,2020-06-29,NA,NA,NA,26
+"4957","Castro","Los Lagos",10201,2020-06-29,NA,NA,NA,26
+"4958","Catemu","Valparaíso",5702,2020-06-29,NA,NA,NA,26
+"4959","Cauquenes","Maule",7201,2020-06-29,NA,NA,NA,26
+"4960","Cerrillos","Metropolitana",13102,2020-06-29,NA,NA,NA,26
+"4961","Cerro Navia","Metropolitana",13103,2020-06-29,NA,NA,NA,26
+"4962","Chaiten","Los Lagos",10401,2020-06-29,NA,NA,NA,26
+"4963","Chanaral","Atacama",3201,2020-06-29,NA,NA,NA,26
+"4964","Chanco","Maule",7202,2020-06-29,NA,NA,NA,26
+"4965","Chepica","O’Higgins",6302,2020-06-29,NA,NA,NA,26
+"4966","Chiguayante","Biobío",8103,2020-06-29,NA,NA,NA,26
+"4967","Chile Chico","Aysén",11401,2020-06-29,NA,NA,NA,26
+"4968","Chillan","Ñuble",16101,2020-06-29,NA,NA,NA,26
+"4969","Chillan Viejo","Ñuble",16103,2020-06-29,NA,NA,NA,26
+"4970","Chimbarongo","O’Higgins",6303,2020-06-29,NA,NA,NA,26
+"4971","Cholchol","Araucanía",9121,2020-06-29,NA,NA,NA,26
+"4972","Chonchi","Los Lagos",10203,2020-06-29,NA,NA,NA,26
+"4973","Cisnes","Aysén",11202,2020-06-29,NA,NA,NA,26
+"4974","Cobquecura","Ñuble",16202,2020-06-29,NA,NA,NA,26
+"4975","Cochamo","Los Lagos",10103,2020-06-29,NA,NA,NA,26
+"4976","Cochrane","Aysén",11301,2020-06-29,NA,NA,NA,26
+"4977","Codegua","O’Higgins",6102,2020-06-29,NA,NA,NA,26
+"4978","Coelemu","Ñuble",16203,2020-06-29,NA,NA,NA,26
+"4979","Coihueco","Ñuble",16302,2020-06-29,NA,NA,NA,26
+"4980","Coinco","O’Higgins",6103,2020-06-29,NA,NA,NA,26
+"4981","Colbun","Maule",7402,2020-06-29,NA,NA,NA,26
+"4982","Colchane","Tarapacá",1403,2020-06-29,NA,NA,NA,26
+"4983","Colina","Metropolitana",13301,2020-06-29,NA,NA,NA,26
+"4984","Collipulli","Araucanía",9202,2020-06-29,NA,NA,NA,26
+"4985","Coltauco","O’Higgins",6104,2020-06-29,NA,NA,NA,26
+"4986","Combarbala","Coquimbo",4302,2020-06-29,NA,NA,NA,26
+"4987","Concepcion","Biobío",8101,2020-06-29,NA,NA,NA,26
+"4988","Conchali","Metropolitana",13104,2020-06-29,NA,NA,NA,26
+"4989","Concon","Valparaíso",5103,2020-06-29,NA,NA,NA,26
+"4990","Constitucion","Maule",7102,2020-06-29,NA,NA,NA,26
+"4991","Contulmo","Biobío",8204,2020-06-29,NA,NA,NA,26
+"4992","Copiapo","Atacama",3101,2020-06-29,NA,NA,NA,26
+"4993","Coquimbo","Coquimbo",4102,2020-06-29,NA,NA,NA,26
+"4994","Coronel","Biobío",8102,2020-06-29,NA,NA,NA,26
+"4995","Corral","Los Ríos",14102,2020-06-29,NA,NA,NA,26
+"4996","Coyhaique","Aysén",11101,2020-06-29,NA,NA,NA,26
+"4997","Cunco","Araucanía",9103,2020-06-29,NA,NA,NA,26
+"4998","Curacautin","Araucanía",9203,2020-06-29,NA,NA,NA,26
+"4999","Curacavi","Metropolitana",13503,2020-06-29,NA,NA,NA,26
+"5000","Curaco de Velez","Los Lagos",10204,2020-06-29,NA,NA,NA,26
+"5001","Curanilahue","Biobío",8205,2020-06-29,NA,NA,NA,26
+"5002","Curarrehue","Araucanía",9104,2020-06-29,NA,NA,NA,26
+"5003","Curepto","Maule",7103,2020-06-29,NA,NA,NA,26
+"5004","Curico","Maule",7301,2020-06-29,NA,NA,NA,26
+"5005","Dalcahue","Los Lagos",10205,2020-06-29,NA,NA,NA,26
+"5006","Desconocido Antofagasta","Antofagasta",0,2020-06-29,NA,NA,NA,26
+"5007","Desconocido Araucania","Araucanía",0,2020-06-29,NA,NA,NA,26
+"5008","Desconocido Arica y Parinacota","Arica y Parinacota",0,2020-06-29,NA,NA,NA,26
+"5009","Desconocido Atacama","Atacama",0,2020-06-29,NA,NA,NA,26
+"5010","Desconocido Aysen","Aysén",0,2020-06-29,NA,NA,NA,26
+"5011","Desconocido Biobio","Biobío",0,2020-06-29,NA,NA,NA,26
+"5012","Desconocido Coquimbo","Coquimbo",0,2020-06-29,NA,NA,NA,26
+"5013","Desconocido Los Lagos","Los Lagos",0,2020-06-29,NA,NA,NA,26
+"5014","Desconocido Los Rios","Los Ríos",0,2020-06-29,NA,NA,NA,26
+"5015","Desconocido Magallanes","Magallanes",0,2020-06-29,NA,NA,NA,26
+"5016","Desconocido Maule","Maule",0,2020-06-29,NA,NA,NA,26
+"5017","Desconocido Metropolitana","Metropolitana",0,2020-06-29,NA,NA,NA,26
+"5018","Desconocido Nuble","Ñuble",0,2020-06-29,NA,NA,NA,26
+"5019","Desconocido O’Higgins","O’Higgins",0,2020-06-29,NA,NA,NA,26
+"5020","Desconocido Tarapaca","Tarapacá",0,2020-06-29,NA,NA,NA,26
+"5021","Desconocido Valparaiso","Valparaíso",0,2020-06-29,NA,NA,NA,26
+"5022","Diego de Almagro","Atacama",3202,2020-06-29,NA,NA,NA,26
+"5023","Donihue","O’Higgins",6105,2020-06-29,NA,NA,NA,26
+"5024","El Bosque","Metropolitana",13105,2020-06-29,NA,NA,NA,26
+"5025","El Carmen","Ñuble",16104,2020-06-29,NA,NA,NA,26
+"5026","El Monte","Metropolitana",13602,2020-06-29,NA,NA,NA,26
+"5027","El Quisco","Valparaíso",5604,2020-06-29,NA,NA,NA,26
+"5028","El Tabo","Valparaíso",5605,2020-06-29,NA,NA,NA,26
+"5029","Empedrado","Maule",7104,2020-06-29,NA,NA,NA,26
+"5030","Ercilla","Araucanía",9204,2020-06-29,NA,NA,NA,26
+"5031","Estacion Central","Metropolitana",13106,2020-06-29,NA,NA,NA,26
+"5032","Florida","Biobío",8104,2020-06-29,NA,NA,NA,26
+"5033","Freire","Araucanía",9105,2020-06-29,NA,NA,NA,26
+"5034","Freirina","Atacama",3303,2020-06-29,NA,NA,NA,26
+"5035","Fresia","Los Lagos",10104,2020-06-29,NA,NA,NA,26
+"5036","Frutillar","Los Lagos",10105,2020-06-29,NA,NA,NA,26
+"5037","Futaleufu","Los Lagos",10402,2020-06-29,NA,NA,NA,26
+"5038","Futrono","Los Ríos",14202,2020-06-29,NA,NA,NA,26
+"5039","Galvarino","Araucanía",9106,2020-06-29,NA,NA,NA,26
+"5040","General Lagos","Arica y Parinacota",15202,2020-06-29,NA,NA,NA,26
+"5041","Gorbea","Araucanía",9107,2020-06-29,NA,NA,NA,26
+"5042","Graneros","O’Higgins",6106,2020-06-29,NA,NA,NA,26
+"5043","Guaitecas","Aysén",11203,2020-06-29,NA,NA,NA,26
+"5044","Hijuelas","Valparaíso",5503,2020-06-29,NA,NA,NA,26
+"5045","Hualaihue","Los Lagos",10403,2020-06-29,NA,NA,NA,26
+"5046","Hualane","Maule",7302,2020-06-29,NA,NA,NA,26
+"5047","Hualpen","Biobío",8112,2020-06-29,NA,NA,NA,26
+"5048","Hualqui","Biobío",8105,2020-06-29,NA,NA,NA,26
+"5049","Huara","Tarapacá",1404,2020-06-29,NA,NA,NA,26
+"5050","Huasco","Atacama",3304,2020-06-29,NA,NA,NA,26
+"5051","Huechuraba","Metropolitana",13107,2020-06-29,NA,NA,NA,26
+"5052","Illapel","Coquimbo",4201,2020-06-29,NA,NA,NA,26
+"5053","Independencia","Metropolitana",13108,2020-06-29,NA,NA,NA,26
+"5054","Iquique","Tarapacá",1101,2020-06-29,NA,NA,NA,26
+"5055","Isla de Maipo","Metropolitana",13603,2020-06-29,NA,NA,NA,26
+"5056","Isla de Pascua","Valparaíso",5201,2020-06-29,NA,NA,NA,26
+"5057","Juan Fernandez","Valparaíso",5104,2020-06-29,NA,NA,NA,26
+"5058","La Cisterna","Metropolitana",13109,2020-06-29,NA,NA,NA,26
+"5059","La Cruz","Valparaíso",5504,2020-06-29,NA,NA,NA,26
+"5060","La Estrella","O’Higgins",6202,2020-06-29,NA,NA,NA,26
+"5061","La Florida","Metropolitana",13110,2020-06-29,NA,NA,NA,26
+"5062","La Granja","Metropolitana",13111,2020-06-29,NA,NA,NA,26
+"5063","La Higuera","Coquimbo",4104,2020-06-29,NA,NA,NA,26
+"5064","La Ligua","Valparaíso",5401,2020-06-29,NA,NA,NA,26
+"5065","La Pintana","Metropolitana",13112,2020-06-29,NA,NA,NA,26
+"5066","La Reina","Metropolitana",13113,2020-06-29,NA,NA,NA,26
+"5067","La Serena","Coquimbo",4101,2020-06-29,NA,NA,NA,26
+"5068","La Union","Los Ríos",14201,2020-06-29,NA,NA,NA,26
+"5069","Lago Ranco","Los Ríos",14203,2020-06-29,NA,NA,NA,26
+"5070","Lago Verde","Aysén",11102,2020-06-29,NA,NA,NA,26
+"5071","Laguna Blanca","Magallanes",12102,2020-06-29,NA,NA,NA,26
+"5072","Laja","Biobío",8304,2020-06-29,NA,NA,NA,26
+"5073","Lampa","Metropolitana",13302,2020-06-29,NA,NA,NA,26
+"5074","Lanco","Los Ríos",14103,2020-06-29,NA,NA,NA,26
+"5075","Las Cabras","O’Higgins",6107,2020-06-29,NA,NA,NA,26
+"5076","Las Condes","Metropolitana",13114,2020-06-29,NA,NA,NA,26
+"5077","Lautaro","Araucanía",9108,2020-06-29,NA,NA,NA,26
+"5078","Lebu","Biobío",8201,2020-06-29,NA,NA,NA,26
+"5079","Licanten","Maule",7303,2020-06-29,NA,NA,NA,26
+"5080","Limache","Valparaíso",5802,2020-06-29,NA,NA,NA,26
+"5081","Linares","Maule",7401,2020-06-29,NA,NA,NA,26
+"5082","Litueche","O’Higgins",6203,2020-06-29,NA,NA,NA,26
+"5083","Llaillay","Valparaíso",5703,2020-06-29,NA,NA,NA,26
+"5084","Llanquihue","Los Lagos",10107,2020-06-29,NA,NA,NA,26
+"5085","Lo Barnechea","Metropolitana",13115,2020-06-29,NA,NA,NA,26
+"5086","Lo Espejo","Metropolitana",13116,2020-06-29,NA,NA,NA,26
+"5087","Lo Prado","Metropolitana",13117,2020-06-29,NA,NA,NA,26
+"5088","Lolol","O’Higgins",6304,2020-06-29,NA,NA,NA,26
+"5089","Loncoche","Araucanía",9109,2020-06-29,NA,NA,NA,26
+"5090","Longavi","Maule",7403,2020-06-29,NA,NA,NA,26
+"5091","Lonquimay","Araucanía",9205,2020-06-29,NA,NA,NA,26
+"5092","Los Alamos","Biobío",8206,2020-06-29,NA,NA,NA,26
+"5093","Los Andes","Valparaíso",5301,2020-06-29,NA,NA,NA,26
+"5094","Los Angeles","Biobío",8301,2020-06-29,NA,NA,NA,26
+"5095","Los Lagos","Los Ríos",14104,2020-06-29,NA,NA,NA,26
+"5096","Los Muermos","Los Lagos",10106,2020-06-29,NA,NA,NA,26
+"5097","Los Sauces","Araucanía",9206,2020-06-29,NA,NA,NA,26
+"5098","Los Vilos","Coquimbo",4203,2020-06-29,NA,NA,NA,26
+"5099","Lota","Biobío",8106,2020-06-29,NA,NA,NA,26
+"5100","Lumaco","Araucanía",9207,2020-06-29,NA,NA,NA,26
+"5101","Machali","O’Higgins",6108,2020-06-29,NA,NA,NA,26
+"5102","Macul","Metropolitana",13118,2020-06-29,NA,NA,NA,26
+"5103","Mafil","Los Ríos",14105,2020-06-29,NA,NA,NA,26
+"5104","Maipu","Metropolitana",13119,2020-06-29,NA,NA,NA,26
+"5105","Malloa","O’Higgins",6109,2020-06-29,NA,NA,NA,26
+"5106","Marchihue","O’Higgins",6204,2020-06-29,NA,NA,NA,26
+"5107","Maria Elena","Antofagasta",2302,2020-06-29,NA,NA,NA,26
+"5108","Maria Pinto","Metropolitana",13504,2020-06-29,NA,NA,NA,26
+"5109","Mariquina","Los Ríos",14106,2020-06-29,NA,NA,NA,26
+"5110","Maule","Maule",7105,2020-06-29,NA,NA,NA,26
+"5111","Maullin","Los Lagos",10108,2020-06-29,NA,NA,NA,26
+"5112","Mejillones","Antofagasta",2102,2020-06-29,NA,NA,NA,26
+"5113","Melipeuco","Araucanía",9110,2020-06-29,NA,NA,NA,26
+"5114","Melipilla","Metropolitana",13501,2020-06-29,NA,NA,NA,26
+"5115","Molina","Maule",7304,2020-06-29,NA,NA,NA,26
+"5116","Monte Patria","Coquimbo",4303,2020-06-29,NA,NA,NA,26
+"5117","Mostazal","O’Higgins",6110,2020-06-29,NA,NA,NA,26
+"5118","Mulchen","Biobío",8305,2020-06-29,NA,NA,NA,26
+"5119","Nacimiento","Biobío",8306,2020-06-29,NA,NA,NA,26
+"5120","Nancagua","O’Higgins",6305,2020-06-29,NA,NA,NA,26
+"5121","Natales","Magallanes",12401,2020-06-29,NA,NA,NA,26
+"5122","Navidad","O’Higgins",6205,2020-06-29,NA,NA,NA,26
+"5123","Negrete","Biobío",8307,2020-06-29,NA,NA,NA,26
+"5124","Ninhue","Ñuble",16204,2020-06-29,NA,NA,NA,26
+"5125","Niquen","Ñuble",16303,2020-06-29,NA,NA,NA,26
+"5126","Nogales","Valparaíso",5506,2020-06-29,NA,NA,NA,26
+"5127","Nueva Imperial","Araucanía",9111,2020-06-29,NA,NA,NA,26
+"5128","Nunoa","Metropolitana",13120,2020-06-29,NA,NA,NA,26
+"5129","OHiggins","Aysén",11302,2020-06-29,NA,NA,NA,26
+"5130","Olivar","O’Higgins",6111,2020-06-29,NA,NA,NA,26
+"5131","Ollague","Antofagasta",2202,2020-06-29,NA,NA,NA,26
+"5132","Olmue","Valparaíso",5803,2020-06-29,NA,NA,NA,26
+"5133","Osorno","Los Lagos",10301,2020-06-29,NA,NA,NA,26
+"5134","Ovalle","Coquimbo",4301,2020-06-29,NA,NA,NA,26
+"5135","Padre Hurtado","Metropolitana",13604,2020-06-29,NA,NA,NA,26
+"5136","Padre Las Casas","Araucanía",9112,2020-06-29,NA,NA,NA,26
+"5137","Paiguano","Coquimbo",4105,2020-06-29,NA,NA,NA,26
+"5138","Paillaco","Los Ríos",14107,2020-06-29,NA,NA,NA,26
+"5139","Paine","Metropolitana",13404,2020-06-29,NA,NA,NA,26
+"5140","Palena","Los Lagos",10404,2020-06-29,NA,NA,NA,26
+"5141","Palmilla","O’Higgins",6306,2020-06-29,NA,NA,NA,26
+"5142","Panguipulli","Los Ríos",14108,2020-06-29,NA,NA,NA,26
+"5143","Panquehue","Valparaíso",5704,2020-06-29,NA,NA,NA,26
+"5144","Papudo","Valparaíso",5403,2020-06-29,NA,NA,NA,26
+"5145","Paredones","O’Higgins",6206,2020-06-29,NA,NA,NA,26
+"5146","Parral","Maule",7404,2020-06-29,NA,NA,NA,26
+"5147","Pedro Aguirre Cerda","Metropolitana",13121,2020-06-29,NA,NA,NA,26
+"5148","Pelarco","Maule",7106,2020-06-29,NA,NA,NA,26
+"5149","Pelluhue","Maule",7203,2020-06-29,NA,NA,NA,26
+"5150","Pemuco","Ñuble",16105,2020-06-29,NA,NA,NA,26
+"5151","Penaflor","Metropolitana",13605,2020-06-29,NA,NA,NA,26
+"5152","Penalolen","Metropolitana",13122,2020-06-29,NA,NA,NA,26
+"5153","Pencahue","Maule",7107,2020-06-29,NA,NA,NA,26
+"5154","Penco","Biobío",8107,2020-06-29,NA,NA,NA,26
+"5155","Peralillo","O’Higgins",6307,2020-06-29,NA,NA,NA,26
+"5156","Perquenco","Araucanía",9113,2020-06-29,NA,NA,NA,26
+"5157","Petorca","Valparaíso",5404,2020-06-29,NA,NA,NA,26
+"5158","Peumo","O’Higgins",6112,2020-06-29,NA,NA,NA,26
+"5159","Pica","Tarapacá",1405,2020-06-29,NA,NA,NA,26
+"5160","Pichidegua","O’Higgins",6113,2020-06-29,NA,NA,NA,26
+"5161","Pichilemu","O’Higgins",6201,2020-06-29,NA,NA,NA,26
+"5162","Pinto","Ñuble",16106,2020-06-29,NA,NA,NA,26
+"5163","Pirque","Metropolitana",13202,2020-06-29,NA,NA,NA,26
+"5164","Pitrufquen","Araucanía",9114,2020-06-29,NA,NA,NA,26
+"5165","Placilla","O’Higgins",6308,2020-06-29,NA,NA,NA,26
+"5166","Portezuelo","Ñuble",16205,2020-06-29,NA,NA,NA,26
+"5167","Porvenir","Magallanes",12301,2020-06-29,NA,NA,NA,26
+"5168","Pozo Almonte","Tarapacá",1401,2020-06-29,NA,NA,NA,26
+"5169","Primavera","Magallanes",12302,2020-06-29,NA,NA,NA,26
+"5170","Providencia","Metropolitana",13123,2020-06-29,NA,NA,NA,26
+"5171","Puchuncavi","Valparaíso",5105,2020-06-29,NA,NA,NA,26
+"5172","Pucon","Araucanía",9115,2020-06-29,NA,NA,NA,26
+"5173","Pudahuel","Metropolitana",13124,2020-06-29,NA,NA,NA,26
+"5174","Puente Alto","Metropolitana",13201,2020-06-29,NA,NA,NA,26
+"5175","Puerto Montt","Los Lagos",10101,2020-06-29,NA,NA,NA,26
+"5176","Puerto Octay","Los Lagos",10302,2020-06-29,NA,NA,NA,26
+"5177","Puerto Varas","Los Lagos",10109,2020-06-29,NA,NA,NA,26
+"5178","Pumanque","O’Higgins",6309,2020-06-29,NA,NA,NA,26
+"5179","Punitaqui","Coquimbo",4304,2020-06-29,NA,NA,NA,26
+"5180","Punta Arenas","Magallanes",12101,2020-06-29,NA,NA,NA,26
+"5181","Puqueldon","Los Lagos",10206,2020-06-29,NA,NA,NA,26
+"5182","Puren","Araucanía",9208,2020-06-29,NA,NA,NA,26
+"5183","Purranque","Los Lagos",10303,2020-06-29,NA,NA,NA,26
+"5184","Putaendo","Valparaíso",5705,2020-06-29,NA,NA,NA,26
+"5185","Putre","Arica y Parinacota",15201,2020-06-29,NA,NA,NA,26
+"5186","Puyehue","Los Lagos",10304,2020-06-29,NA,NA,NA,26
+"5187","Queilen","Los Lagos",10207,2020-06-29,NA,NA,NA,26
+"5188","Quellon","Los Lagos",10208,2020-06-29,NA,NA,NA,26
+"5189","Quemchi","Los Lagos",10209,2020-06-29,NA,NA,NA,26
+"5190","Quilaco","Biobío",8308,2020-06-29,NA,NA,NA,26
+"5191","Quilicura","Metropolitana",13125,2020-06-29,NA,NA,NA,26
+"5192","Quilleco","Biobío",8309,2020-06-29,NA,NA,NA,26
+"5193","Quillon","Ñuble",16107,2020-06-29,NA,NA,NA,26
+"5194","Quillota","Valparaíso",5501,2020-06-29,NA,NA,NA,26
+"5195","Quilpue","Valparaíso",5801,2020-06-29,NA,NA,NA,26
+"5196","Quinchao","Los Lagos",10210,2020-06-29,NA,NA,NA,26
+"5197","Quinta de Tilcoco","O’Higgins",6114,2020-06-29,NA,NA,NA,26
+"5198","Quinta Normal","Metropolitana",13126,2020-06-29,NA,NA,NA,26
+"5199","Quintero","Valparaíso",5107,2020-06-29,NA,NA,NA,26
+"5200","Quirihue","Ñuble",16201,2020-06-29,NA,NA,NA,26
+"5201","Rancagua","O’Higgins",6101,2020-06-29,NA,NA,NA,26
+"5202","Ranquil","Ñuble",16206,2020-06-29,NA,NA,NA,26
+"5203","Rauco","Maule",7305,2020-06-29,NA,NA,NA,26
+"5204","Recoleta","Metropolitana",13127,2020-06-29,NA,NA,NA,26
+"5205","Renaico","Araucanía",9209,2020-06-29,NA,NA,NA,26
+"5206","Renca","Metropolitana",13128,2020-06-29,NA,NA,NA,26
+"5207","Rengo","O’Higgins",6115,2020-06-29,NA,NA,NA,26
+"5208","Requinoa","O’Higgins",6116,2020-06-29,NA,NA,NA,26
+"5209","Retiro","Maule",7405,2020-06-29,NA,NA,NA,26
+"5210","Rinconada","Valparaíso",5303,2020-06-29,NA,NA,NA,26
+"5211","Rio Bueno","Los Ríos",14204,2020-06-29,NA,NA,NA,26
+"5212","Rio Claro","Maule",7108,2020-06-29,NA,NA,NA,26
+"5213","Rio Hurtado","Coquimbo",4305,2020-06-29,NA,NA,NA,26
+"5214","Rio Ibanez","Aysén",11402,2020-06-29,NA,NA,NA,26
+"5215","Rio Negro","Los Lagos",10305,2020-06-29,NA,NA,NA,26
+"5216","Rio Verde","Magallanes",12103,2020-06-29,NA,NA,NA,26
+"5217","Romeral","Maule",7306,2020-06-29,NA,NA,NA,26
+"5218","Saavedra","Araucanía",9116,2020-06-29,NA,NA,NA,26
+"5219","Sagrada Familia","Maule",7307,2020-06-29,NA,NA,NA,26
+"5220","Salamanca","Coquimbo",4204,2020-06-29,NA,NA,NA,26
+"5221","San Antonio","Valparaíso",5601,2020-06-29,NA,NA,NA,26
+"5222","San Bernardo","Metropolitana",13401,2020-06-29,NA,NA,NA,26
+"5223","San Carlos","Ñuble",16301,2020-06-29,NA,NA,NA,26
+"5224","San Clemente","Maule",7109,2020-06-29,NA,NA,NA,26
+"5225","San Esteban","Valparaíso",5304,2020-06-29,NA,NA,NA,26
+"5226","San Fabian","Ñuble",16304,2020-06-29,NA,NA,NA,26
+"5227","San Felipe","Valparaíso",5701,2020-06-29,NA,NA,NA,26
+"5228","San Fernando","O’Higgins",6301,2020-06-29,NA,NA,NA,26
+"5229","San Gregorio","Magallanes",12104,2020-06-29,NA,NA,NA,26
+"5230","San Ignacio","Ñuble",16108,2020-06-29,NA,NA,NA,26
+"5231","San Javier","Maule",7406,2020-06-29,NA,NA,NA,26
+"5232","San Joaquin","Metropolitana",13129,2020-06-29,NA,NA,NA,26
+"5233","San Jose de Maipo","Metropolitana",13203,2020-06-29,NA,NA,NA,26
+"5234","San Juan de la Costa","Los Lagos",10306,2020-06-29,NA,NA,NA,26
+"5235","San Miguel","Metropolitana",13130,2020-06-29,NA,NA,NA,26
+"5236","San Nicolas","Ñuble",16305,2020-06-29,NA,NA,NA,26
+"5237","San Pablo","Los Lagos",10307,2020-06-29,NA,NA,NA,26
+"5238","San Pedro","Metropolitana",13505,2020-06-29,NA,NA,NA,26
+"5239","San Pedro de Atacama","Antofagasta",2203,2020-06-29,NA,NA,NA,26
+"5240","San Pedro de la Paz","Biobío",8108,2020-06-29,NA,NA,NA,26
+"5241","San Rafael","Maule",7110,2020-06-29,NA,NA,NA,26
+"5242","San Ramon","Metropolitana",13131,2020-06-29,NA,NA,NA,26
+"5243","San Rosendo","Biobío",8310,2020-06-29,NA,NA,NA,26
+"5244","San Vicente","O’Higgins",6117,2020-06-29,NA,NA,NA,26
+"5245","Santa Barbara","Biobío",8311,2020-06-29,NA,NA,NA,26
+"5246","Santa Cruz","O’Higgins",6310,2020-06-29,NA,NA,NA,26
+"5247","Santa Juana","Biobío",8109,2020-06-29,NA,NA,NA,26
+"5248","Santa Maria","Valparaíso",5706,2020-06-29,NA,NA,NA,26
+"5249","Santiago","Metropolitana",13101,2020-06-29,NA,NA,NA,26
+"5250","Santo Domingo","Valparaíso",5606,2020-06-29,NA,NA,NA,26
+"5251","Sierra Gorda","Antofagasta",2103,2020-06-29,NA,NA,NA,26
+"5252","Talagante","Metropolitana",13601,2020-06-29,NA,NA,NA,26
+"5253","Talca","Maule",7101,2020-06-29,NA,NA,NA,26
+"5254","Talcahuano","Biobío",8110,2020-06-29,NA,NA,NA,26
+"5255","Taltal","Antofagasta",2104,2020-06-29,NA,NA,NA,26
+"5256","Temuco","Araucanía",9101,2020-06-29,NA,NA,NA,26
+"5257","Teno","Maule",7308,2020-06-29,NA,NA,NA,26
+"5258","Teodoro Schmidt","Araucanía",9117,2020-06-29,NA,NA,NA,26
+"5259","Tierra Amarilla","Atacama",3103,2020-06-29,NA,NA,NA,26
+"5260","Tiltil","Metropolitana",13303,2020-06-29,NA,NA,NA,26
+"5261","Timaukel","Magallanes",12303,2020-06-29,NA,NA,NA,26
+"5262","Tirua","Biobío",8207,2020-06-29,NA,NA,NA,26
+"5263","Tocopilla","Antofagasta",2301,2020-06-29,NA,NA,NA,26
+"5264","Tolten","Araucanía",9118,2020-06-29,NA,NA,NA,26
+"5265","Tome","Biobío",8111,2020-06-29,NA,NA,NA,26
+"5266","Torres del Paine","Magallanes",12402,2020-06-29,NA,NA,NA,26
+"5267","Tortel","Aysén",11303,2020-06-29,NA,NA,NA,26
+"5268","Traiguen","Araucanía",9210,2020-06-29,NA,NA,NA,26
+"5269","Treguaco","Ñuble",16207,2020-06-29,NA,NA,NA,26
+"5270","Tucapel","Biobío",8312,2020-06-29,NA,NA,NA,26
+"5271","Valdivia","Los Ríos",14101,2020-06-29,NA,NA,NA,26
+"5272","Vallenar","Atacama",3301,2020-06-29,NA,NA,NA,26
+"5273","Valparaiso","Valparaíso",5101,2020-06-29,NA,NA,NA,26
+"5274","Vichuquen","Maule",7309,2020-06-29,NA,NA,NA,26
+"5275","Victoria","Araucanía",9211,2020-06-29,NA,NA,NA,26
+"5276","Vicuna","Coquimbo",4106,2020-06-29,NA,NA,NA,26
+"5277","Vilcun","Araucanía",9119,2020-06-29,NA,NA,NA,26
+"5278","Villa Alegre","Maule",7407,2020-06-29,NA,NA,NA,26
+"5279","Villa Alemana","Valparaíso",5804,2020-06-29,NA,NA,NA,26
+"5280","Villarrica","Araucanía",9120,2020-06-29,NA,NA,NA,26
+"5281","Vina del Mar","Valparaíso",5109,2020-06-29,NA,NA,NA,26
+"5282","Vitacura","Metropolitana",13132,2020-06-29,NA,NA,NA,26
+"5283","Yerbas Buenas","Maule",7408,2020-06-29,NA,NA,NA,26
+"5284","Yumbel","Biobío",8313,2020-06-29,NA,NA,NA,26
+"5285","Yungay","Ñuble",16109,2020-06-29,NA,NA,NA,26
+"5286","Zapallar","Valparaíso",5405,2020-06-29,NA,NA,NA,26
